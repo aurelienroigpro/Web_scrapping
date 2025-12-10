@@ -6,6 +6,8 @@ from playwright.sync_api import sync_playwright
 from playwright.sync_api import expect
 
     # ---- Fonctions utilitaires ----
+    # ---- Correspond à adresse_crawler 7.1.py
+    
 def human_sleep(base=1.0, variance=0.5):
         """Pause aléatoire pour simuler un comportement humain."""
         t = base + random.uniform(0, variance)
@@ -159,6 +161,7 @@ def get_logic_immo_url(page, code_postal):
 # ---- Boucle principale ----
 def main():
     # Ajuste la limite si nécessaire (None = tout lire)
+    # villes_france.csv contient la liste des 100 plus grandes villes de france par population.
     codes = lire_codes_postaux("villes_france.csv")
     if not codes:
         print("❌ Aucun code postal trouvé.")
