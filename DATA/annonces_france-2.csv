@@ -1,0 +1,1461 @@
+prix,surface,pieces,adresse,type_bien,departement_nom,departement_code
+983 500,105,4.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+983 500,105,4.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+950 500,128,5.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+950 500,128,5.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+942 100,108,4.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+942 100,108,4.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+890 000,102,4.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+890 000,102,4.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+882 000,"110,4",4.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+882 000,"110,4",4.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+844 600,108,4.0,"Vieille Chapelle, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+844 600,108,4.0,"Vieille Chapelle, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+765 000,116,4.0,"Endoume, Marseille 7ème (13007)",Maison,Bouches-du-Rhône,13
+765 000,116,4.0,"Endoume, Marseille 7ème (13007)",Maison,Bouches-du-Rhône,13
+698 000,141,4.0,"Opéra, Marseille 1er (13001)",Appartement,Bouches-du-Rhône,13
+698 000,141,4.0,"Opéra, Marseille 1er (13001)",Appartement,Bouches-du-Rhône,13
+695 000,274  de terrain,4.0,"Saint Barnabé, Marseille 12ème (13012)",Maison,Bouches-du-Rhône,13
+660 000,"93,6",4.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+660 000,"93,6",4.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+623 000,"87,7",4.0,"Sud-Universités, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+623 000,"87,7",4.0,"Sud-Universités, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+620 000,80,3.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+620 000,80,3.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+590 000,118,4.0,"Saint Giniez, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+590 000,118,4.0,"Saint Giniez, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+580 000,90,3.0,Aix en Provence (13100),Appartement,Bouches-du-Rhône,13
+580 000,90,3.0,Aix en Provence (13100),Appartement,Bouches-du-Rhône,13
+550 000,"64,2",3.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+550 000,"64,2",3.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+530 000,73,3.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+530 000,73,3.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+530 000,115,4.0,"Cinq Avenues, Marseille 4ème (13004)",Appartement,Bouches-du-Rhône,13
+530 000,115,4.0,"Cinq Avenues, Marseille 4ème (13004)",Appartement,Bouches-du-Rhône,13
+505 000,"65,7",3.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+505 000,"65,7",3.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+500 000,92,4.0,"Montredon, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+500 000,92,4.0,"Montredon, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+4 500 000,630  de terrain,8.0,"Endoume, Marseille 7ème (13007)",Maison,Bouches-du-Rhône,13
+4 500 000,630  de terrain,8.0,"Endoume, Marseille 7ème (13007)",Maison,Bouches-du-Rhône,13
+488 000,92,4.0,"Bompard, Marseille 7ème (13007)",Appartement,Bouches-du-Rhône,13
+488 000,92,4.0,"Bompard, Marseille 7ème (13007)",Appartement,Bouches-du-Rhône,13
+455 800,72,3.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+455 800,72,3.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+450 000,791  de terrain,4.0,"Le Charrel-Camp Major-Saint Mître, Aubagne (13400)",Maison,Bouches-du-Rhône,13
+447 000,"65,9",3.0,"Sud-Universités, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+447 000,"65,9",3.0,"Sud-Universités, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+438 000,"46,2",2.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+438 000,"46,2",2.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+426 000,63,3.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+426 000,63,3.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+415 000,70,3.0,"Bonneveine, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+415 000,70,3.0,"Bonneveine, Marseille 8ème (13008)",Appartement,Bouches-du-Rhône,13
+375 000,95,4.0,Marseille 10ème (13010),Appartement,Bouches-du-Rhône,13
+375 000,95,4.0,Marseille 10ème (13010),Appartement,Bouches-du-Rhône,13
+369 900,63,3.0,"Sainte Marguerite, Marseille 9ème (13009)",Appartement,Bouches-du-Rhône,13
+369 900,63,3.0,"Sainte Marguerite, Marseille 9ème (13009)",Appartement,Bouches-du-Rhône,13
+350 500,44,2.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+350 500,44,2.0,Aix-en-Provence (13100),Appartement,Bouches-du-Rhône,13
+350 000,"45,2",2.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+350 000,"45,2",2.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+288 700,37,2.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+288 700,37,2.0,Marseille 8ème (13008),Appartement,Bouches-du-Rhône,13
+284 000,82,4.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+284 000,82,4.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+274 000,"77,1",4.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+274 000,"77,1",4.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+268 000,66,3.0,"Sud-Universités, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+268 000,66,3.0,"Sud-Universités, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+262 000,"27,2",1.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+262 000,"27,2",1.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+226 000,63,3.0,Marseille 10ème (13010),Appartement,Bouches-du-Rhône,13
+226 000,63,3.0,Marseille 10ème (13010),Appartement,Bouches-du-Rhône,13
+225 000,75,4.0,"Lodi, Marseille 6ème (13006)",Appartement,Bouches-du-Rhône,13
+225 000,75,4.0,"Lodi, Marseille 6ème (13006)",Appartement,Bouches-du-Rhône,13
+215 100,"59,9",3.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+215 100,"59,9",3.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+1 990 000,201,5.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+1 990 000,201,5.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+1 990 000,3 247  de terrain,7.0,Aix-en-Provence (13100),Maison,Bouches-du-Rhône,13
+1 990 000,3 247  de terrain,7.0,Aix-en-Provence (13100),Maison,Bouches-du-Rhône,13
+1 590 000,"137,5",6.0,"Sud-Universités, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+1 590 000,"137,5",6.0,"Sud-Universités, Aix-en-Provence (13080)",Appartement,Bouches-du-Rhône,13
+1 495 000,175,5.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+1 495 000,175,5.0,"Mazenod-Bellevue-Saint Donat-Banon, Aix-en-Provence (13090)",Appartement,Bouches-du-Rhône,13
+1 300 000,116,4.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+1 300 000,116,4.0,"Mazarin-Opéra-Bellegarde-Mairie, Aix-en-Provence (13100)",Appartement,Bouches-du-Rhône,13
+1 195 000,1 060  de terrain,5.0,Aix-en-Provence (13090),Terrain,Bouches-du-Rhône,13
+1 155 000,3 800  de terrain,11.0,Aix en Provence (13090),Maison,Bouches-du-Rhône,13
+1 155 000,3 800  de terrain,11.0,Aix en Provence (13090),Maison,Bouches-du-Rhône,13
+1 134 000,"155,2",6.0,"Sud-Universités, Aix-en-Provence (13080)",Maison,Bouches-du-Rhône,13
+1 134 000,"155,2",6.0,"Sud-Universités, Aix-en-Provence (13080)",Maison,Bouches-du-Rhône,13
+1 133 000,1 210  de terrain,7.0,"Plateau de Puyricard-La Trévaresse, Puyricard (13540)",Maison,Bouches-du-Rhône,13
+199 000,"44,7",3.0,"Logis Neuf Ouest, Allauch (13190)",Appartement,Bouches-du-Rhône,13
+193 999,50,3.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+193 999,50,3.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+180 000,39,1.0,Marseille 15ème Arrondissement (13015),Appartement,Bouches-du-Rhône,13
+180 000,39,1.0,Marseille 15ème Arrondissement (13015),Appartement,Bouches-du-Rhône,13
+154 000,"39,1",2.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+154 000,"39,1",2.0,"La Rose, Marseille 13ème (13013)",Appartement,Bouches-du-Rhône,13
+152 000,42,2.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+152 000,42,2.0,"Les Crottes, Marseille 15ème Arrondissement (13015)",Appartement,Bouches-du-Rhône,13
+150 000,40,2.0,Marseille 13ème (13013),Appartement,Bouches-du-Rhône,13
+150 000,40,2.0,Marseille 13ème (13013),Appartement,Bouches-du-Rhône,13
+110 460,19,1.0,Marseille 13ème (13013),Appartement,Bouches-du-Rhône,13
+110 460,19,1.0,Marseille 13ème (13013),Appartement,Bouches-du-Rhône,13
+399 000,75,4.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+399 000,75,4.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+339 000,"94,4",5.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+339 000,"94,4",5.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+325 000,60,3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+325 000,60,3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+289 000,"73,4",4.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+289 000,"73,4",4.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+267 000,63,3.0,"Carrieres Bacquin, Dijon (21000)",Appartement,Côte-d'Or,21
+267 000,63,3.0,"Carrieres Bacquin, Dijon (21000)",Appartement,Côte-d'Or,21
+255 000,"62,6",3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+255 000,"62,6",3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+240 000,60,3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+240 000,60,3.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+221 000,"58,9",3.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+221 000,"58,9",3.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+219 000,59,3.0,"Bel Air, Dijon (21000)",Appartement,Côte-d'Or,21
+219 000,59,3.0,"Bel Air, Dijon (21000)",Appartement,Côte-d'Or,21
+215 416,"62,7",3.0,"Activités Economiques, Fontaine-Lès-Dijon (21121)",Appartement,Côte-d'Or,21
+213 000,60,3.0,"Balzac, Dijon (21000)",Appartement,Côte-d'Or,21
+213 000,60,3.0,"Balzac, Dijon (21000)",Appartement,Côte-d'Or,21
+204 000,"62,3",3.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+204 000,"62,3",3.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+199 000,43,2.0,"Carrieres Bacquin, Dijon (21000)",Appartement,Côte-d'Or,21
+199 000,43,2.0,"Carrieres Bacquin, Dijon (21000)",Appartement,Côte-d'Or,21
+191 000,"61,4",3.0,Plombieres-les-Dijon (21370),Appartement,Côte-d'Or,21
+180 000,40,2.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+180 000,40,2.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+179 000,40,2.0,"Balzac, Dijon (21000)",Appartement,Côte-d'Or,21
+179 000,40,2.0,"Balzac, Dijon (21000)",Appartement,Côte-d'Or,21
+178 500,43,2.0,"Bel Air, Dijon (21000)",Appartement,Côte-d'Or,21
+178 500,43,2.0,"Bel Air, Dijon (21000)",Appartement,Côte-d'Or,21
+159 500,"43,3",2.0,"Carrousel, Dijon (21000)",Appartement,Côte-d'Or,21
+159 500,"43,3",2.0,"Carrousel, Dijon (21000)",Appartement,Côte-d'Or,21
+159 000,45,2.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+159 000,45,2.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+151 000,"35,3",2.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+151 000,"35,3",2.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+149 000,79,3.0,"Toison d'Or-Zone Industrielle, Dijon (21000)",Appartement,Côte-d'Or,21
+149 000,79,3.0,"Toison d'Or-Zone Industrielle, Dijon (21000)",Appartement,Côte-d'Or,21
+139 000,38,2.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+139 000,38,2.0,"Arsenal, Dijon (21000)",Appartement,Côte-d'Or,21
+139 000,25,1.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+139 000,25,1.0,"Fauconnet, Dijon (21000)",Appartement,Côte-d'Or,21
+138 500,"19,8",1.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+138 500,"19,8",1.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+123 000,"25,2",1.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+123 000,"25,2",1.0,"Abattoirs, Dijon (21000)",Appartement,Côte-d'Or,21
+120 500,"17,2",1.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+120 500,"17,2",1.0,"Docteur Lavalle, Dijon (21000)",Appartement,Côte-d'Or,21
+105 000,37,2.0,"Cordeliers, Dijon (21000)",Appartement,Côte-d'Or,21
+105 000,37,2.0,"Cordeliers, Dijon (21000)",Appartement,Côte-d'Or,21
+618 000,1 623  de terrain,8.0,Locmaria-Plouzané (29280),Maison,Finistère,29
+452 000,60,3.0,"Centre, Brest (29200)",Appartement,Finistère,29
+452 000,60,3.0,"Centre, Brest (29200)",Appartement,Finistère,29
+405 000,90,5.0,"Saint Pierre, Brest (29200)",Maison,Finistère,29
+405 000,90,5.0,"Saint Pierre, Brest (29200)",Maison,Finistère,29
+395 000,90,4.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+395 000,90,4.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+381 000,"87,5",4.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+381 000,"87,5",4.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+360 000,75,4.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+360 000,75,4.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+355 243,75,4.0,"Centre, Brest (29200)",Appartement,Finistère,29
+355 243,75,4.0,"Centre, Brest (29200)",Appartement,Finistère,29
+329 000,60,3.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+329 000,60,3.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+290 000,62,3.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+290 000,62,3.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+289 000,61,3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+289 000,61,3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+286 202,60,3.0,"Centre, Brest (29200)",Appartement,Finistère,29
+286 202,60,3.0,"Centre, Brest (29200)",Appartement,Finistère,29
+282 000,63,3.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+282 000,63,3.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+269 000,60,3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+269 000,60,3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+259 000,"60,9",3.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+259 000,"60,9",3.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+250 000,40,2.0,"Centre, Brest (29200)",Appartement,Finistère,29
+250 000,40,2.0,"Centre, Brest (29200)",Appartement,Finistère,29
+249 000,40,2.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+249 000,40,2.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+204 144,40,2.0,"Centre, Brest (29200)",Appartement,Finistère,29
+204 144,40,2.0,"Centre, Brest (29200)",Appartement,Finistère,29
+204 000,"42,8",2.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+204 000,"42,8",2.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+191 000,"62,1",3.0,"Centre Ville, Saint-Renan (29290)",Appartement,Finistère,29
+190 000,"62,8",3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+190 000,"62,8",3.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+189 000,46,2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+189 000,46,2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+183 000,38,2.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+183 000,38,2.0,"Saint Marc, Brest (29200)",Appartement,Finistère,29
+167 000,"38,3",2.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+167 000,"38,3",2.0,"Quatre Moulins, Brest (29200)",Appartement,Finistère,29
+165 900,"40,7",2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+165 900,"40,7",2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+155 000,40,2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+155 000,40,2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+141 000,"43,9",2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+141 000,"43,9",2.0,"Saint Pierre, Brest (29200)",Appartement,Finistère,29
+119 383,"20,1",1.0,"Centre, Brest (29200)",Appartement,Finistère,29
+119 383,"20,1",1.0,"Centre, Brest (29200)",Appartement,Finistère,29
+982 000,196,4.0,Nimes (30900),Appartement,Gard,30
+982 000,196,4.0,Nimes (30900),Appartement,Gard,30
+96 500,72,4.0,"Beaucaire, Nîmes (30000)",Appartement,Gard,30
+96 500,72,4.0,"Beaucaire, Nîmes (30000)",Appartement,Gard,30
+550 000,1 050  de terrain,5.0,Nimes (30000),Maison,Gard,30
+550 000,1 050  de terrain,5.0,Nimes (30000),Maison,Gard,30
+495 000,88,4.0,"André Malraux, Nîmes (30000)",Appartement,Gard,30
+495 000,88,4.0,"André Malraux, Nîmes (30000)",Appartement,Gard,30
+407 000,86,4.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+407 000,86,4.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+398 000,140,4.0,Nimes (30000),Appartement,Gard,30
+398 000,140,4.0,Nimes (30000),Appartement,Gard,30
+393 000,99,5.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+393 000,99,5.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+390 000,330  de terrain,7.0,Nimes (30000),Maison,Gard,30
+390 000,330  de terrain,7.0,Nimes (30000),Maison,Gard,30
+345 000,83,3.0,Nimes (30000),Appartement,Gard,30
+345 000,83,3.0,Nimes (30000),Appartement,Gard,30
+300 000,66,3.0,"Camplanier, Nîmes (30900)",Appartement,Gard,30
+288 000,87,4.0,"Capouchiné, Nîmes (30000)",Appartement,Gard,30
+288 000,87,4.0,"Capouchiné, Nîmes (30000)",Appartement,Gard,30
+285 000,64,3.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+285 000,64,3.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+273 000,90,4.0,"Arènes, Nimes (30000)",Appartement,Gard,30
+265 000,77,3.0,Nimes (30000),Appartement,Gard,30
+265 000,77,3.0,Nimes (30000),Appartement,Gard,30
+264 900,70,3.0,"André Malraux, Nîmes (30000)",Maison,Gard,30
+264 900,70,3.0,"André Malraux, Nîmes (30000)",Maison,Gard,30
+250 000,300  de terrain,5.0,Nîmes (30000),Terrain,Gard,30
+250 000,300  de terrain,5.0,Nîmes (30000),Terrain,Gard,30
+249 500,54,3.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+249 500,54,3.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+247 075,62,3.0,"La Gazelle, Nîmes (30000)",Appartement,Gard,30
+247 075,62,3.0,"La Gazelle, Nîmes (30000)",Appartement,Gard,30
+240 000,74,3.0,"Hôpital, Nimes (30900)",Appartement,Gard,30
+240 000,74,3.0,"Hôpital, Nimes (30900)",Appartement,Gard,30
+235 000,46,2.0,"Camplanier, Nîmes (30900)",Appartement,Gard,30
+213 895,41,2.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+213 895,41,2.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+210 000,47,2.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+210 000,47,2.0,"Beausoleil, Nîmes (30900)",Appartement,Gard,30
+210 000,58,3.0,"Capouchiné, Nîmes (30000)",Appartement,Gard,30
+210 000,58,3.0,"Capouchiné, Nîmes (30000)",Appartement,Gard,30
+199 900,"45,1",2.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+199 900,"45,1",2.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+169 990,"62,5",3.0,"Courbessac, Nîmes (30000)",Appartement,Gard,30
+169 990,"62,5",3.0,"Courbessac, Nîmes (30000)",Appartement,Gard,30
+144 990,"45,9",2.0,"Courbessac, Nîmes (30000)",Appartement,Gard,30
+144 990,"45,9",2.0,"Courbessac, Nîmes (30000)",Appartement,Gard,30
+129 900,28,1.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+129 900,28,1.0,"Beausoleil, Nîmes (30000)",Appartement,Gard,30
+110 000,36,1.0,"Esplanade, Nîmes (30000)",Appartement,Gard,30
+110 000,36,1.0,"Esplanade, Nîmes (30000)",Appartement,Gard,30
+970 000,"178,1",8.0,"Jolimont-Soupetard-Bonhoure, Toulouse (31000)",Maison,Haute-Garonne,31
+879 000,78,4.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+879 000,78,4.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+879 000,78,4.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+879 000,78,4.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+850 000,122,4.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+850 000,122,4.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+850 000,122,4.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+850 000,122,4.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+81 750,"21,7",1.0,Toulouse (31100),Appartement,Haute-Garonne,31
+81 750,"21,7",1.0,Toulouse (31100),Appartement,Haute-Garonne,31
+797 000,160,5.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+797 000,160,5.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+797 000,160,5.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+797 000,160,5.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+795 000,"147,6",3.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+795 000,"147,6",3.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+795 000,"147,6",3.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+795 000,"147,6",3.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+690 000,160,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+690 000,160,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+690 000,160,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+690 000,160,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+648 000,"136,1",5.0,"Côte Pavée-L Hers-La Terrasse, Toulouse (31000)",Maison,Haute-Garonne,31
+648 000,"136,1",5.0,"Côte Pavée-L Hers-La Terrasse, Toulouse (31000)",Maison,Haute-Garonne,31
+648 000,"136,1",5.0,"Côte Pavée-L Hers-La Terrasse, Toulouse (31000)",Maison,Haute-Garonne,31
+648 000,"136,1",5.0,"Côte Pavée-L Hers-La Terrasse, Toulouse (31000)",Maison,Haute-Garonne,31
+499 000,60,3.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+499 000,60,3.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+499 000,60,3.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+499 000,60,3.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+489 000,108,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+489 000,108,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+419 000,110,3.0,"Capitole, Toulouse (31000)",Duplex,Haute-Garonne,31
+419 000,110,3.0,"Capitole, Toulouse (31000)",Duplex,Haute-Garonne,31
+419 000,110,3.0,"Capitole, Toulouse (31000)",Duplex,Haute-Garonne,31
+419 000,110,3.0,"Capitole, Toulouse (31000)",Duplex,Haute-Garonne,31
+400 500,"102,9",5.0,"Purpan-Saint Martin du Touch, Toulouse (31300)",Appartement,Haute-Garonne,31
+380 000,105,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+380 000,105,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+369 900,"88,9",4.0,"Pont des Demoiselles-Montaudran-La Terrasse, Toulouse (31400)",Appartement,Haute-Garonne,31
+339 000,78,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+339 000,78,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+339 000,78,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+339 000,78,4.0,Toulouse (31000),Appartement,Haute-Garonne,31
+314 000,61,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+314 000,61,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+314 000,61,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+314 000,61,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+299 000,"55,4",2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+299 000,"55,4",2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+299 000,"55,4",2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+299 000,"55,4",2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+250 000,53,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+250 000,53,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+250 000,53,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+250 000,53,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+239 000,56,3.0,Toulouse (31000),Appartement,Haute-Garonne,31
+239 000,56,3.0,Toulouse (31000),Appartement,Haute-Garonne,31
+239 000,56,3.0,Toulouse (31000),Appartement,Haute-Garonne,31
+239 000,56,3.0,Toulouse (31000),Appartement,Haute-Garonne,31
+233 000,36,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+233 000,36,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+233 000,36,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+233 000,36,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+230 000,"52,2",2.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+230 000,"52,2",2.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 960 000,75 000  de terrain,20.0,Toulouse (31000),Château,Haute-Garonne,31
+1 960 000,75 000  de terrain,20.0,Toulouse (31000),Château,Haute-Garonne,31
+1 960 000,75 000  de terrain,20.0,Toulouse (31000),Château,Haute-Garonne,31
+1 960 000,75 000  de terrain,20.0,Toulouse (31000),Château,Haute-Garonne,31
+1 840 000,145,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 840 000,145,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 840 000,145,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 840 000,145,5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 700 000,"229,6",5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 700 000,"229,6",5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 700 000,"229,6",5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+1 700 000,"229,6",5.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+169 000,35,2.0,Toulouse (31000),Appartement,Haute-Garonne,31
+169 000,35,2.0,Toulouse (31000),Appartement,Haute-Garonne,31
+169 000,35,2.0,Toulouse (31000),Appartement,Haute-Garonne,31
+169 000,35,2.0,Toulouse (31000),Appartement,Haute-Garonne,31
+168 500,20,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+168 500,20,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+168 500,20,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+168 500,20,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+166 000,23,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+166 000,23,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+166 000,23,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+166 000,23,2.0,"Capitole, Toulouse (31000)",Appartement,Haute-Garonne,31
+160 000,40,2.0,Toulouse (31400),Appartement,Haute-Garonne,31
+160 000,40,2.0,Toulouse (31400),Appartement,Haute-Garonne,31
+155 000,66,3.0,"Croix Daurade-Borderouge-Paleficat-Trois Cocus , Toulouse (31200)",Appartement,Haute-Garonne,31
+153 500,23,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+153 500,23,1.0,Toulouse (31000),Appartement,Haute-Garonne,31
+145 600,22,2.0,Toulouse (31200),Appartement,Haute-Garonne,31
+145 600,22,2.0,Toulouse (31200),Appartement,Haute-Garonne,31
+145 600,22,2.0,Toulouse (31200),Appartement,Haute-Garonne,31
+145 600,22,2.0,Toulouse (31200),Appartement,Haute-Garonne,31
+109 000,16,1.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+109 000,16,1.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+109 000,16,1.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+109 000,16,1.0,"Les Chalets-Saint Aubin-Saint Etienne, Toulouse (31000)",Appartement,Haute-Garonne,31
+990 000,140  de terrain,9.0,"Capucins-Saint Michel-Nansouty-Saint Genès, Bordeaux (33000)",Maison,Gironde,33
+990 000,140  de terrain,9.0,"Capucins-Saint Michel-Nansouty-Saint Genès, Bordeaux (33000)",Maison,Gironde,33
+790 000,92,3.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+790 000,92,3.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+720 000,135,5.0,Bordeaux (33200),Maison,Gironde,33
+720 000,135,5.0,Bordeaux (33200),Maison,Gironde,33
+650 000,132,6.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+650 000,132,6.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+575 000,166  de terrain,4.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Maison,Gironde,33
+575 000,166  de terrain,4.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Maison,Gironde,33
+499 900,71,3.0,"Grand Parc-Chartrons-Paul Doumer, Bordeaux (33000)",Appartement,Gironde,33
+499 900,71,3.0,"Grand Parc-Chartrons-Paul Doumer, Bordeaux (33000)",Appartement,Gironde,33
+495 000,84,4.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+495 000,84,4.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+483 000,89,5.0,Bordeaux (33000),Appartement,Gironde,33
+483 000,89,5.0,Bordeaux (33000),Appartement,Gironde,33
+449 000,106,4.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+449 000,106,4.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+429 500,47  de terrain,4.0,Bordeaux (33000),Maison,Gironde,33
+429 500,47  de terrain,4.0,Bordeaux (33000),Maison,Gironde,33
+380 000,76,4.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+380 000,76,4.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+323 533,83,4.0,Bordeaux (33800),Appartement,Gironde,33
+323 533,83,4.0,Bordeaux (33800),Appartement,Gironde,33
+322 000,87,3.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+322 000,87,3.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+319 000,67,3.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+319 000,67,3.0,"Saint Bruno-Saint Augustin, Bordeaux (33000)",Appartement,Gironde,33
+269 900,50,2.0,"Capucins-Saint Michel-Nansouty-Saint Genès, Bordeaux (33000)",Appartement,Gironde,33
+269 900,50,2.0,"Capucins-Saint Michel-Nansouty-Saint Genès, Bordeaux (33000)",Appartement,Gironde,33
+268 000,38,2.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+268 000,38,2.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+265 000,50,2.0,"La Bastide, Bordeaux (33100)",Appartement,Gironde,33
+265 000,50,2.0,"La Bastide, Bordeaux (33100)",Appartement,Gironde,33
+262 800,42,2.0,"Le Lac-Bacalan, Bordeaux (33300)",Appartement,Gironde,33
+262 800,42,2.0,"Le Lac-Bacalan, Bordeaux (33300)",Appartement,Gironde,33
+258 123,67,3.0,Bordeaux (33800),Appartement,Gironde,33
+258 123,67,3.0,Bordeaux (33800),Appartement,Gironde,33
+217 900,48,2.0,"Caudéran-Barrière Judaïque, Bordeaux (33200)",Appartement,Gironde,33
+217 900,48,2.0,"Caudéran-Barrière Judaïque, Bordeaux (33200)",Appartement,Gironde,33
+217 418,51,2.0,Bordeaux (33800),Appartement,Gironde,33
+217 418,51,2.0,Bordeaux (33800),Appartement,Gironde,33
+202 000,26,1.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+202 000,26,1.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+200 000,34,2.0,"Grand Parc-Chartrons-Paul Doumer, Bordeaux (33000)",Appartement,Gironde,33
+200 000,34,2.0,"Grand Parc-Chartrons-Paul Doumer, Bordeaux (33000)",Appartement,Gironde,33
+1 365 000,216,5.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Maison,Gironde,33
+155 000,25,1.0,"Le Lac-Bacalan, Bordeaux (33300)",Appartement,Gironde,33
+155 000,25,1.0,"Le Lac-Bacalan, Bordeaux (33300)",Appartement,Gironde,33
+145 636,"18,9",1.0,"Brivazac, Pessac (33600)",Appartement,Gironde,33
+140 000,25,1.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+140 000,25,1.0,"Hôtel de Ville-Quinconce-Saint Seurin-Fondaudège, Bordeaux (33000)",Appartement,Gironde,33
+120 589,"17,6",1.0,"Saint Jean-Belcier-Carle Vernet-Albert 1er, Bordeaux (33200)",Appartement,Gironde,33
+850 000,"109,1",4.0,Montpellier (34000),Appartement,Hérault,34
+850 000,"109,1",4.0,Montpellier (34000),Appartement,Hérault,34
+665 000,97,4.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+590 000,95,4.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+590 000,95,4.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+579 000,360  de terrain,5.0,Lansargues (34130),Maison,Hérault,34
+575 000,63,3.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+575 000,63,3.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+475 000,85,4.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+475 000,85,4.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+460 000,"73,4",3.0,Montpellier (34000),Appartement,Hérault,34
+460 000,"73,4",3.0,Montpellier (34000),Appartement,Hérault,34
+435 800,"93,4",5.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+435 800,"93,4",5.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+395 000,47,2.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+395 000,47,2.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+340 000,"65,1",3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+340 000,"65,1",3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+339 000,62,3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+339 000,62,3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+325 000,58,3.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+325 000,58,3.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+322 000,63,3.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+322 000,63,3.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+295 000,62,3.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+295 000,62,3.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+290 000,48,2.0,Montpellier (34000),Appartement,Hérault,34
+290 000,48,2.0,Montpellier (34000),Appartement,Hérault,34
+290 000,32,1.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+290 000,32,1.0,"Comédie, Montpellier (34000)",Appartement,Hérault,34
+267 000,"44,3",2.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+267 000,"44,3",2.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+258 000,88,4.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+258 000,88,4.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+250 000,"65,4",3.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+250 000,"65,4",3.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+245 000,"42,3",2.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+245 000,"42,3",2.0,"Port Marianne, Montpellier (34000)",Appartement,Hérault,34
+239 000,45,2.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+239 000,45,2.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+237 289,60,3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+237 289,60,3.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+236 000,40,2.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+236 000,40,2.0,"Aiguerelles, Montpellier (34000)",Appartement,Hérault,34
+231 000,"87,4",4.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+231 000,"87,4",4.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+227 704,"56,6",3.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+227 704,"56,6",3.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+199 000,"45,1",2.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+199 000,"45,1",2.0,"Prés d'Arènes, Montpellier (34000)",Appartement,Hérault,34
+174 954,43,2.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+174 954,43,2.0,"Pompignane, Montpellier (34000)",Appartement,Hérault,34
+140 000,"42,6",2.0,"Périphérie Ouest et Sud, Mauguio (34130)",Appartement,Hérault,34
+785 000,86,4.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+785 000,86,4.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+762 850,199,8.0,"Nord Saint Martin, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+762 850,199,8.0,"Nord Saint Martin, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+649 900,"101,3",4.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+649 900,"101,3",4.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+643 500,"113,8",5.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+643 500,"113,8",5.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+627 000,"124,2",6.0,"Francisco-Vern-Poterie, Rennes (35000)",Maison,Ille-et-Vilaine,35
+627 000,"124,2",6.0,"Francisco-Vern-Poterie, Rennes (35000)",Maison,Ille-et-Vilaine,35
+599 645,144,7.0,"Centre, Rennes (35000)",Duplex,Ille-et-Vilaine,35
+599 645,144,7.0,"Centre, Rennes (35000)",Duplex,Ille-et-Vilaine,35
+589 900,"132,6",5.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+589 900,"132,6",5.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+576 000,"88,6",4.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+576 000,"88,6",4.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+498 000,121,5.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+498 000,121,5.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+425 000,"90,3",4.0,"Atalante Beaulieu, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+425 000,"90,3",4.0,"Atalante Beaulieu, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+420 000,60,3.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+420 000,60,3.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+419 000,"75,2",3.0,"Nord Saint Martin, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+419 000,"75,2",3.0,"Nord Saint Martin, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+360 000,"81,2",4.0,"Nord, Le Rheu (35650)",Appartement,Ille-et-Vilaine,35
+350 000,"65,6",3.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+350 000,"65,6",3.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+349 000,61,3.0,"Francisco-Vern-Poterie, Rennes (35200)",Appartement,Ille-et-Vilaine,35
+349 000,61,3.0,"Francisco-Vern-Poterie, Rennes (35200)",Appartement,Ille-et-Vilaine,35
+327 000,"66,1",3.0,"Atalante Beaulieu, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+327 000,"66,1",3.0,"Atalante Beaulieu, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+318 000,37,2.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+318 000,37,2.0,"Centre, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+294 000,"46,7",3.0,"Cleunay-Arsenal Redon, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+294 000,"46,7",3.0,"Cleunay-Arsenal Redon, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+253 500,44,2.0,"Francisco-Vern-Poterie, Rennes (35200)",Appartement,Ille-et-Vilaine,35
+253 500,44,2.0,"Francisco-Vern-Poterie, Rennes (35200)",Appartement,Ille-et-Vilaine,35
+235 000,"43,1",2.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+235 000,"43,1",2.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+233 900,81,4.0,"Villejean-Beauregard, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+233 900,81,4.0,"Villejean-Beauregard, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+233 000,"65,9",3.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+233 000,"65,9",3.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+203 000,"39,1",2.0,"Nord, Le Rheu (35650)",Appartement,Ille-et-Vilaine,35
+189 000,"47,6",2.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+189 000,"47,6",2.0,"Francisco-Vern-Poterie, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+160 000,"21,6",1.0,"Lorient-Saint Brieuc, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+160 000,"21,6",1.0,"Lorient-Saint Brieuc, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+145 000,"19,8",1.0,"Cleunay-Arsenal Redon, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+145 000,"19,8",1.0,"Cleunay-Arsenal Redon, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+128 800,"18,4",1.0,"Lorient-Saint Brieuc, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+128 800,"18,4",1.0,"Lorient-Saint Brieuc, Rennes (35000)",Appartement,Ille-et-Vilaine,35
+674 000,"146,8",5.0,Tours (37000),Appartement,Indre-et-Loire,37
+674 000,"146,8",5.0,Tours (37000),Appartement,Indre-et-Loire,37
+639 600,144,6.0,Tours (37000),Maison,Indre-et-Loire,37
+639 600,144,6.0,Tours (37000),Maison,Indre-et-Loire,37
+587 600,130,7.0,Tours (37000),Maison,Indre-et-Loire,37
+587 600,130,7.0,Tours (37000),Maison,Indre-et-Loire,37
+577 000,70  de terrain,6.0,"Grammont, Tours (37000)",Maison,Indre-et-Loire,37
+577 000,70  de terrain,6.0,"Grammont, Tours (37000)",Maison,Indre-et-Loire,37
+535 000,102,5.0,Tours (37000),Maison,Indre-et-Loire,37
+535 000,102,5.0,Tours (37000),Maison,Indre-et-Loire,37
+451 500,73,3.0,"Centre, Tours (37000)",Duplex,Indre-et-Loire,37
+451 500,73,3.0,"Centre, Tours (37000)",Duplex,Indre-et-Loire,37
+450 000,82,3.0,"Grammont, Tours (37000)",Appartement,Indre-et-Loire,37
+450 000,82,3.0,"Grammont, Tours (37000)",Appartement,Indre-et-Loire,37
+436 142,704  de terrain,5.0,"Sainte Radegonde, Tours (37000)",Terrain,Indre-et-Loire,37
+436 142,704  de terrain,5.0,"Sainte Radegonde, Tours (37000)",Terrain,Indre-et-Loire,37
+364 000,"113,1",5.0,Tours (37000),Appartement,Indre-et-Loire,37
+364 000,"113,1",5.0,Tours (37000),Appartement,Indre-et-Loire,37
+325 877,"63,6",3.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+325 877,"63,6",3.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+318 000,115,5.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+318 000,115,5.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+2 250 000,210 846  de terrain,17.0,Tours (37000),Château,Indre-et-Loire,37
+2 250 000,210 846  de terrain,17.0,Tours (37000),Château,Indre-et-Loire,37
+286 200,86,4.0,"La Fuye Velpeau, Tours (37000)",Appartement,Indre-et-Loire,37
+286 200,86,4.0,"La Fuye Velpeau, Tours (37000)",Appartement,Indre-et-Loire,37
+257 630,"51,5",2.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+257 630,"51,5",2.0,"Lakanal-Strasbourg, Tours (37000)",Appartement,Indre-et-Loire,37
+254 000,60,3.0,"Febvotte-Marat, Tours (37000)",Appartement,Indre-et-Loire,37
+254 000,60,3.0,"Febvotte-Marat, Tours (37000)",Appartement,Indre-et-Loire,37
+249 900,60,2.0,"Grammont, Tours (37000)",Appartement,Indre-et-Loire,37
+249 900,60,2.0,"Grammont, Tours (37000)",Appartement,Indre-et-Loire,37
+247 046,"60,2",3.0,"Giraudeau, Tours (37000)",Appartement,Indre-et-Loire,37
+247 046,"60,2",3.0,"Giraudeau, Tours (37000)",Appartement,Indre-et-Loire,37
+221 000,48,2.0,"Centre, Tours (37000)",Appartement,Indre-et-Loire,37
+221 000,48,2.0,"Centre, Tours (37000)",Appartement,Indre-et-Loire,37
+1 890 000,50 383  de terrain,31.0,Tours (37000),Maison,Indre-et-Loire,37
+1 890 000,50 383  de terrain,31.0,Tours (37000),Maison,Indre-et-Loire,37
+1 350 000,20 000  de terrain,18.0,"Grammont, Tours (37000)",Demeure,Indre-et-Loire,37
+1 350 000,20 000  de terrain,18.0,"Grammont, Tours (37000)",Demeure,Indre-et-Loire,37
+1 310 000,4 420  de terrain,13.0,Tours (37000),Maison,Indre-et-Loire,37
+1 310 000,4 420  de terrain,13.0,Tours (37000),Maison,Indre-et-Loire,37
+1 248 000,6 600  de terrain,9.0,Tours (37000),Maison,Indre-et-Loire,37
+1 248 000,6 600  de terrain,9.0,Tours (37000),Maison,Indre-et-Loire,37
+1 144 000,260,7.0,Tours (37000),Maison,Indre-et-Loire,37
+1 144 000,260,7.0,Tours (37000),Maison,Indre-et-Loire,37
+188 000,71,3.0,"La Camusière, Saint-Avertin (37550)",Appartement,Indre-et-Loire,37
+181 109,"38,9",2.0,"Giraudeau, Tours (37000)",Appartement,Indre-et-Loire,37
+181 109,"38,9",2.0,"Giraudeau, Tours (37000)",Appartement,Indre-et-Loire,37
+138 000,59,2.0,"La Fuye Velpeau, Tours (37000)",Appartement,Indre-et-Loire,37
+138 000,59,2.0,"La Fuye Velpeau, Tours (37000)",Appartement,Indre-et-Loire,37
+118 400,"75,6",4.0,"Allées, Saint-Pierre-des-Corps (37700)",Appartement,Indre-et-Loire,37
+89 000,23,1.0,"Centre-ville - Victor Hugo, Grenoble (38000)",Appartement,Isère,38
+89 000,23,1.0,"Centre-ville - Victor Hugo, Grenoble (38000)",Appartement,Isère,38
+89 000,23,1.0,"Centre-ville - Victor Hugo, Grenoble (38000)",Appartement,Isère,38
+89 000,23,1.0,"Centre-ville - Victor Hugo, Grenoble (38000)",Appartement,Isère,38
+695 000,1 670  de terrain,10.0,Grenoble (38000),Maison,Isère,38
+695 000,1 670  de terrain,10.0,Grenoble (38000),Maison,Isère,38
+695 000,1 670  de terrain,10.0,Grenoble (38000),Maison,Isère,38
+695 000,1 670  de terrain,10.0,Grenoble (38000),Maison,Isère,38
+630 000,189,6.0,Grenoble (38000),Appartement,Isère,38
+630 000,189,6.0,Grenoble (38000),Appartement,Isère,38
+630 000,189,6.0,Grenoble (38000),Appartement,Isère,38
+630 000,189,6.0,Grenoble (38000),Appartement,Isère,38
+59 000,20,1.0,"Abry, Grenoble (38100)",Appartement,Isère,38
+59 000,20,1.0,"Abry, Grenoble (38100)",Appartement,Isère,38
+59 000,20,1.0,"Abry, Grenoble (38100)",Appartement,Isère,38
+59 000,20,1.0,"Abry, Grenoble (38100)",Appartement,Isère,38
+470 000,230,8.0,Grenoble (38000),Appartement,Isère,38
+470 000,230,8.0,Grenoble (38000),Appartement,Isère,38
+470 000,230,8.0,Grenoble (38000),Appartement,Isère,38
+470 000,230,8.0,Grenoble (38000),Appartement,Isère,38
+445 000,828  de terrain,8.0,Grenoble (38100),Maison,Isère,38
+445 000,828  de terrain,8.0,Grenoble (38100),Maison,Isère,38
+445 000,828  de terrain,8.0,Grenoble (38100),Maison,Isère,38
+445 000,828  de terrain,8.0,Grenoble (38100),Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+440 000,90,5.0,"Ile Verte, Grenoble (38000)",Maison,Isère,38
+419 000,104,4.0,Grenoble (38000),Duplex,Isère,38
+419 000,104,4.0,Grenoble (38000),Duplex,Isère,38
+419 000,104,4.0,Grenoble (38000),Duplex,Isère,38
+419 000,104,4.0,Grenoble (38000),Duplex,Isère,38
+410 000,"136,4",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+410 000,"136,4",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+410 000,"136,4",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+410 000,"136,4",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+395 000,90,5.0,"Abbaye, Grenoble (38000)",Maison,Isère,38
+360 000,450  de terrain,4.0,Mont-Saint-Martin (38120),Terrain,Isère,38
+355 000,"124,5",4.0,Grenoble (38000),Duplex,Isère,38
+355 000,"124,5",4.0,Grenoble (38000),Duplex,Isère,38
+355 000,"124,5",4.0,Grenoble (38000),Duplex,Isère,38
+355 000,"124,5",4.0,Grenoble (38000),Duplex,Isère,38
+350 000,120,5.0,Grenoble (38000),Appartement,Isère,38
+350 000,120,5.0,Grenoble (38000),Appartement,Isère,38
+350 000,120,5.0,Grenoble (38000),Appartement,Isère,38
+350 000,120,5.0,Grenoble (38000),Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+295 000,"152,5",4.0,"Antiquaire - Notre Dame , Grenoble (38000)",Appartement,Isère,38
+290 000,63,3.0,Grenoble (38000),Appartement,Isère,38
+290 000,63,3.0,Grenoble (38000),Appartement,Isère,38
+290 000,63,3.0,Grenoble (38000),Appartement,Isère,38
+290 000,63,3.0,Grenoble (38000),Appartement,Isère,38
+270 000,109,4.0,Grenoble (38000),Appartement,Isère,38
+270 000,109,4.0,Grenoble (38000),Appartement,Isère,38
+270 000,109,4.0,Grenoble (38000),Appartement,Isère,38
+270 000,109,4.0,Grenoble (38000),Appartement,Isère,38
+227 000,69,3.0,Grenoble (38000),Appartement,Isère,38
+227 000,69,3.0,Grenoble (38000),Appartement,Isère,38
+227 000,69,3.0,Grenoble (38000),Appartement,Isère,38
+227 000,69,3.0,Grenoble (38000),Appartement,Isère,38
+214 000,"46,5",2.0,"Saint Laurent, Grenoble Centre (38000)",Appartement,Isère,38
+214 000,"46,5",2.0,"Saint Laurent, Grenoble Centre (38000)",Appartement,Isère,38
+214 000,"46,5",2.0,"Saint Laurent, Grenoble Centre (38000)",Appartement,Isère,38
+214 000,"46,5",2.0,"Saint Laurent, Grenoble Centre (38000)",Appartement,Isère,38
+210 000,"97,8",4.0,"Fiancey-Brieux, Saint-Égrève (38120)",Appartement,Isère,38
+179 000,96,4.0,"Abry, Grenoble (38000)",Appartement,Isère,38
+179 000,96,4.0,"Abry, Grenoble (38000)",Appartement,Isère,38
+179 000,96,4.0,"Abry, Grenoble (38000)",Appartement,Isère,38
+179 000,96,4.0,"Abry, Grenoble (38000)",Appartement,Isère,38
+159 000,"51,2",2.0,"Berriat-Ampere, Grenoble (38000)",Appartement,Isère,38
+159 000,"51,2",2.0,"Berriat-Ampere, Grenoble (38000)",Appartement,Isère,38
+159 000,"85,2",4.0,Grenoble (38100),Appartement,Isère,38
+159 000,"85,2",4.0,Grenoble (38100),Appartement,Isère,38
+159 000,"51,2",2.0,"Berriat-Ampere, Grenoble (38000)",Appartement,Isère,38
+159 000,"51,2",2.0,"Berriat-Ampere, Grenoble (38000)",Appartement,Isère,38
+159 000,"85,2",4.0,Grenoble (38100),Appartement,Isère,38
+159 000,"85,2",4.0,Grenoble (38100),Appartement,Isère,38
+155 000,86,4.0,Grenoble (38100),Appartement,Isère,38
+155 000,86,4.0,Grenoble (38100),Appartement,Isère,38
+155 000,86,4.0,Grenoble (38100),Appartement,Isère,38
+155 000,86,4.0,Grenoble (38100),Appartement,Isère,38
+149 000,"93,3",3.0,Grenoble (38100),Appartement,Isère,38
+149 000,"93,3",3.0,Grenoble (38100),Appartement,Isère,38
+149 000,"93,3",3.0,Grenoble (38100),Appartement,Isère,38
+149 000,"93,3",3.0,Grenoble (38100),Appartement,Isère,38
+135 000,52,2.0,Grenoble (38000),Appartement,Isère,38
+135 000,52,2.0,Grenoble (38000),Appartement,Isère,38
+135 000,52,2.0,Grenoble (38000),Appartement,Isère,38
+135 000,52,2.0,Grenoble (38000),Appartement,Isère,38
+100 000,55,2.0,Grenoble (38100),Appartement,Isère,38
+100 000,55,2.0,Grenoble (38100),Appartement,Isère,38
+100 000,55,2.0,Grenoble (38100),Appartement,Isère,38
+100 000,55,2.0,Grenoble (38100),Appartement,Isère,38
+Bouquet 80 000,"77,5",3.0,"Colline des Pères-Tardy, Saint-Étienne (42100)",Appartement,Loire,42
+Bouquet 80 000,"77,5",3.0,"Colline des Pères-Tardy, Saint-Étienne (42100)",Appartement,Loire,42
+Bouquet 51 000,144,5.0,"Crêt de Roc, St Etienne (42000)",Appartement,Loire,42
+Bouquet 51 000,144,5.0,"Crêt de Roc, St Etienne (42000)",Appartement,Loire,42
+98 000,99,4.0,"Colline des Pères-Tardy, Saint-Étienne (42000)",Appartement,Loire,42
+98 000,99,4.0,"Colline des Pères-Tardy, Saint-Étienne (42000)",Appartement,Loire,42
+81 000,80,3.0,"Beaulieu – Montchovet-Marandinière, Saint-Étienne (42000)",Appartement,Loire,42
+81 000,80,3.0,"Beaulieu – Montchovet-Marandinière, Saint-Étienne (42000)",Appartement,Loire,42
+72 000,"71,5",3.0,"Beaulieu – Montchovet-Marandinière, Saint-Étienne (42100)",Appartement,Loire,42
+72 000,"71,5",3.0,"Beaulieu – Montchovet-Marandinière, Saint-Étienne (42100)",Appartement,Loire,42
+69 000,56,2.0,"Le Bernay-Valfuret-La Rivière, Saint-Étienne (42100)",Appartement,Loire,42
+69 000,56,2.0,"Le Bernay-Valfuret-La Rivière, Saint-Étienne (42100)",Appartement,Loire,42
+67 500,"48,5",4.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Appartement,Loire,42
+67 500,"48,5",4.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Appartement,Loire,42
+67 000,31,2.0,"Crêt de Roc, Saint-Étienne (42000)",Appartement,Loire,42
+67 000,31,2.0,"Crêt de Roc, Saint-Étienne (42000)",Appartement,Loire,42
+60 000,57,4.0,"Bizillon-Centre Deux, Saint-Étienne (42100)",Appartement,Loire,42
+59 000,"48,6",3.0,"Méons-Le Soleil, Saint-Étienne (42000)",Appartement,Loire,42
+59 000,"48,6",3.0,"Méons-Le Soleil, Saint-Étienne (42000)",Appartement,Loire,42
+565 000,797  de terrain,8.0,"Bergson-La Terrasse, Saint-Étienne (42000)",Maison,Loire,42
+565 000,797  de terrain,8.0,"Bergson-La Terrasse, Saint-Étienne (42000)",Maison,Loire,42
+54 000,50,2.0,"Crêt de Roc, Saint-Étienne (42000)",Appartement,Loire,42
+54 000,50,2.0,"Crêt de Roc, Saint-Étienne (42000)",Appartement,Loire,42
+520 000,214,6.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+520 000,214,6.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+264 000,"105,8",5.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+264 000,"105,8",5.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+247 000,105,,"Peripherie, Saint-Genest-Lerpt (42530)",Terrain,Loire,42
+239 000,129,5.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+239 000,129,5.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+215 000,"134,8",5.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Duplex,Loire,42
+215 000,"134,8",5.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Duplex,Loire,42
+200 000,204,6.0,"Saint Jacques-Chavanelle, Saint-Étienne (42000)",Appartement,Loire,42
+200 000,204,6.0,"Saint Jacques-Chavanelle, Saint-Étienne (42000)",Appartement,Loire,42
+190 000,"235,5",7.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+190 000,"235,5",7.0,"Hyper Centre-Vieille Ville, Saint-Étienne (42000)",Appartement,Loire,42
+185 000,185,7.0,Saint-Étienne (42100),Appartement,Loire,42
+185 000,185,7.0,Saint-Étienne (42100),Appartement,Loire,42
+177 000,"64,8",4.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+177 000,"64,8",4.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+167 000,"65,4",3.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+167 000,"65,4",3.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+163 000,128,6.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Appartement,Loire,42
+163 000,128,6.0,"Côte Chaude-Montaud, Saint-Étienne (42000)",Appartement,Loire,42
+149 000,"109,5",4.0,"Tarentaize-Beaubrun-Severine, Saint-Étienne (42000)",Maison,Loire,42
+149 000,"109,5",4.0,"Tarentaize-Beaubrun-Severine, Saint-Étienne (42000)",Maison,Loire,42
+129 500,"65,2",3.0,"Monthieu-Saint François, Saint-Étienne (42100)",Appartement,Loire,42
+129 500,"65,2",3.0,"Monthieu-Saint François, Saint-Étienne (42100)",Appartement,Loire,42
+114 000,"46,7",2.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+114 000,"46,7",2.0,"Méons-Le Soleil, Saint-Etienne (42000)",Appartement,Loire,42
+110 000,"100,4",5.0,"Tarentaize-Beaubrun-Severine, Saint-Étienne (42000)",Duplex,Loire,42
+110 000,"100,4",5.0,"Tarentaize-Beaubrun-Severine, Saint-Étienne (42000)",Duplex,Loire,42
+569 000,86,4.0,"Rond-Point de Vannes, Nantes (44000)",Appartement,Loire-Atlantique,44
+569 000,86,4.0,"Rond-Point de Vannes, Nantes (44000)",Appartement,Loire-Atlantique,44
+549 000,86,4.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+549 000,86,4.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+549 000,"155,2",3.0,"Centre Ville, Nantes (44000)",Appartement,Loire-Atlantique,44
+549 000,"155,2",3.0,"Centre Ville, Nantes (44000)",Appartement,Loire-Atlantique,44
+498 000,132,4.0,"Centre Ville, Nantes (44000)",Appartement,Loire-Atlantique,44
+498 000,132,4.0,"Centre Ville, Nantes (44000)",Appartement,Loire-Atlantique,44
+430 000,67,3.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+430 000,67,3.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+399 000,64,3.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+399 000,64,3.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+349 000,107,5.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+349 000,107,5.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+325 000,89,4.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+325 000,89,4.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+300 900,"80,1",4.0,"Nantes Erdre, Nantes (44300)",Appartement,Loire-Atlantique,44
+265 000,80,3.0,"Sainte-Thérèse Beauséjour, Nantes (44300)",Appartement,Loire-Atlantique,44
+265 000,80,3.0,"Sainte-Thérèse Beauséjour, Nantes (44300)",Appartement,Loire-Atlantique,44
+264 500,75,4.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+264 500,75,4.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+255 000,43,2.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+255 000,43,2.0,"Saint-Clément - Chalâtres, Nantes (44000)",Appartement,Loire-Atlantique,44
+240 000,62,3.0,"Tortière - Donatien, Nantes (44000)",Appartement,Loire-Atlantique,44
+240 000,62,3.0,"Tortière - Donatien, Nantes (44000)",Appartement,Loire-Atlantique,44
+239 000,66,3.0,"Rond-Point de Vannes, Nantes (44000)",Appartement,Loire-Atlantique,44
+239 000,66,3.0,"Rond-Point de Vannes, Nantes (44000)",Appartement,Loire-Atlantique,44
+235 000,34,1.0,Nantes (44000),Appartement,Loire-Atlantique,44
+235 000,34,1.0,Nantes (44000),Appartement,Loire-Atlantique,44
+1 399 000,138,5.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+1 399 000,138,5.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+195 810,61,3.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+195 810,61,3.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+189 000,50,3.0,"Dalby, Nantes (44000)",Appartement,Loire-Atlantique,44
+189 000,50,3.0,"Dalby, Nantes (44000)",Appartement,Loire-Atlantique,44
+189 000,68,3.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+189 000,68,3.0,"Île de Nantes, Nantes (44200)",Appartement,Loire-Atlantique,44
+181 700,"36,7",2.0,"Nantes Erdre, Nantes (44300)",Appartement,Loire-Atlantique,44
+180 000,26,2.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+180 000,26,2.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+164 000,40,2.0,"Saint-Jacques, Nantes (44200)",Appartement,Loire-Atlantique,44
+164 000,40,2.0,"Saint-Jacques, Nantes (44200)",Appartement,Loire-Atlantique,44
+144 000,19,1.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+144 000,19,1.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+144 000,49,2.0,"Saint-Jacques, Nantes (44200)",Appartement,Loire-Atlantique,44
+144 000,49,2.0,"Saint-Jacques, Nantes (44200)",Appartement,Loire-Atlantique,44
+142 000,18,1.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+142 000,18,1.0,"Procé - Monselet, Nantes (44000)",Appartement,Loire-Atlantique,44
+139 500,89,4.0,"Chantenay - Sainte-Anne, Nantes (44100)",Appartement,Loire-Atlantique,44
+139 500,89,4.0,"Chantenay - Sainte-Anne, Nantes (44100)",Appartement,Loire-Atlantique,44
+100 000,29,1.0,"Tortière - Donatien, Nantes (44300)",Appartement,Loire-Atlantique,44
+100 000,29,1.0,"Tortière - Donatien, Nantes (44300)",Appartement,Loire-Atlantique,44
+897 500,295  de terrain,10.0,Angers (49100),Maison,Maine-et-Loire,49
+897 500,295  de terrain,10.0,Angers (49100),Maison,Maine-et-Loire,49
+675 000,75,3.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+675 000,75,3.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+474 000,115,5.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+474 000,115,5.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+447 000,108,5.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+447 000,108,5.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+428 000,95,4.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+428 000,95,4.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+370 000,88,4.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+370 000,88,4.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+310 000,58,3.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+310 000,58,3.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+309 000,"65,7",3.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+309 000,"65,7",3.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+289 000,81,4.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+289 000,81,4.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+265 000,65,3.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+265 000,65,3.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+262 000,"57,9",3.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+262 000,"57,9",3.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+261 800,84,4.0,"Saint Serge-Ney-Chalouère, Angers (49100)",Appartement,Maine-et-Loire,49
+240 000,"53,7",3.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+240 000,"53,7",3.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+225 000,40,2.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+225 000,40,2.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+224 000,"45,2",2.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+224 000,"45,2",2.0,"Centre, Angers (49000)",Appartement,Maine-et-Loire,49
+215 000,"61,6",3.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+215 000,"61,6",3.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+212 000,91,4.0,"Lac de Maine-Molière, Angers (49000)",Duplex,Maine-et-Loire,49
+212 000,91,4.0,"Lac de Maine-Molière, Angers (49000)",Duplex,Maine-et-Loire,49
+210 114,"33,9",2.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+210 114,"33,9",2.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+210 100,"58,6",3.0,"Centre Ville, Avrille (49240)",Appartement,Maine-et-Loire,49
+1 368 000,1 434  de terrain,12.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+1 368 000,1 434  de terrain,12.0,"Centre, Angers (49000)",Maison,Maine-et-Loire,49
+186 292,"43,9",2.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+186 292,"43,9",2.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+184 000,"34,9",2.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+184 000,"34,9",2.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+181 108,"43,9",2.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+181 108,"43,9",2.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+169 000,"30,7",1.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+169 000,"30,7",1.0,"Madeleine-Saint Léonard-Justices, Angers (49000)",Appartement,Maine-et-Loire,49
+163 000,30,1.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+163 000,30,1.0,"Belle Beille, Angers (49000)",Appartement,Maine-et-Loire,49
+158 000,31,1.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+158 000,31,1.0,"Grand Pigeon-Deux Croix-Banchais, Angers (49100)",Appartement,Maine-et-Loire,49
+130 712,"22,1",1.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+130 712,"22,1",1.0,"Hauts de Saint Aubin, Angers (49100)",Appartement,Maine-et-Loire,49
+990 000,"162,8",5.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+990 000,"162,8",5.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+520 000,110,3.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+520 000,110,3.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+500 000,109,4.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+500 000,109,4.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+440 000,"121,6",5.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+440 000,"121,6",5.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+369 900,"83,5",4.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+369 900,"83,5",4.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+350 000,"67,6",3.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+350 000,"67,6",3.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+349 000,99,3.0,"Maison Blanche-Wilson, Reims (51100)",Duplex,Marne,51
+349 000,99,3.0,"Maison Blanche-Wilson, Reims (51100)",Duplex,Marne,51
+348 000,"80,6",4.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+348 000,"80,6",4.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+322 000,"56,1",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+322 000,"56,1",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+312 000,79,4.0,"Clairmarais-Charles Arnould, Reims (51100)",Duplex,Marne,51
+312 000,79,4.0,"Clairmarais-Charles Arnould, Reims (51100)",Duplex,Marne,51
+259 900,66,3.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+259 900,66,3.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+254 000,"66,6",3.0,"Clairmarais-Charles Arnould, Reims (51100)",Duplex,Marne,51
+254 000,"66,6",3.0,"Clairmarais-Charles Arnould, Reims (51100)",Duplex,Marne,51
+250 000,"49,7",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+250 000,"49,7",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+248 900,500  de terrain,5.0,Berméricourt (51220),Terrain,Marne,51
+245 000,"49,7",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+245 000,"49,7",2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+244 500,102,5.0,Reims (51100),Appartement,Marne,51
+244 500,102,5.0,Reims (51100),Appartement,Marne,51
+239 000,380  de terrain,5.0,Courcy (51220),Terrain,Marne,51
+235 400,"86,3",4.0,"Chemin Vert-Europe, Reims (51100)",Appartement,Marne,51
+235 400,"86,3",4.0,"Chemin Vert-Europe, Reims (51100)",Appartement,Marne,51
+220 000,"60,1",3.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+220 000,"60,1",3.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+192 000,44,2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+192 000,44,2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+176 000,"41,5",2.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+176 000,"41,5",2.0,"Clairmarais-Charles Arnould, Reims (51100)",Appartement,Marne,51
+174 900,39,2.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+174 900,39,2.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+172 000,57,2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+172 000,57,2.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+158 400,40,2.0,"Maison Blanche-Wilson, Reims (51100)",Appartement,Marne,51
+158 400,40,2.0,"Maison Blanche-Wilson, Reims (51100)",Appartement,Marne,51
+149 900,"26,7",1.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+149 900,"26,7",1.0,"Cernay Jamin-Jean Jaurès-Epinettes, Reims (51100)",Appartement,Marne,51
+145 000,"24,3",1.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+145 000,"24,3",1.0,"Centre Ville, Reims (51100)",Appartement,Marne,51
+102 600,"27,4",1.0,"Barbâtre-Saint Remy-Verrerie, Reims (51100)",Appartement,Marne,51
+102 600,"27,4",1.0,"Barbâtre-Saint Remy-Verrerie, Reims (51100)",Appartement,Marne,51
+99 000,51,2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+99 000,51,2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+760 000,85  de terrain,8.0,Lille (59800),Maison,Nord,59
+760 000,85  de terrain,8.0,Lille (59800),Maison,Nord,59
+715 000,85,4.0,Lille (59000),Appartement,Nord,59
+715 000,85,4.0,Lille (59000),Appartement,Nord,59
+689 000,"107,9",4.0,"Centre, Lille (59000)",Duplex,Nord,59
+689 000,"107,9",4.0,"Centre, Lille (59000)",Duplex,Nord,59
+640 000,"94,2",5.0,"Saint Maurice-Pellevoisin, Lille (59777)",Appartement,Nord,59
+640 000,"94,2",5.0,"Saint Maurice-Pellevoisin, Lille (59777)",Appartement,Nord,59
+598 000,217,6.0,Lille (59000),Maison,Nord,59
+598 000,217,6.0,Lille (59000),Maison,Nord,59
+568 200,"82,8",3.0,"Centre, Lille (59000)",Duplex,Nord,59
+568 200,"82,8",3.0,"Centre, Lille (59000)",Duplex,Nord,59
+540 000,111,4.0,Lille (59800),Duplex,Nord,59
+540 000,111,4.0,Lille (59800),Duplex,Nord,59
+430 500,77,3.0,Lille (59000),Appartement,Nord,59
+430 500,77,3.0,Lille (59000),Appartement,Nord,59
+395 000,90,5.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+395 000,90,5.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+366 000,70,3.0,Lille (59800),Appartement,Nord,59
+366 000,70,3.0,Lille (59800),Appartement,Nord,59
+360 000,75,4.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+360 000,75,4.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+348 000,102,4.0,"Wazemmes, Lille (59000)",Appartement,Nord,59
+348 000,102,4.0,"Wazemmes, Lille (59000)",Appartement,Nord,59
+290 000,"45,3",2.0,"Saint Maurice-Pellevoisin, Lille (59777)",Appartement,Nord,59
+290 000,"45,3",2.0,"Saint Maurice-Pellevoisin, Lille (59777)",Appartement,Nord,59
+280 500,60,3.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+280 500,60,3.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+280 500,75,3.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+280 500,75,3.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+262 500,98,3.0,Lille (59800),Appartement,Nord,59
+262 500,98,3.0,Lille (59800),Appartement,Nord,59
+243 000,96,5.0,"Centre, Lille (59000)",Appartement,Nord,59
+239 200,106,4.0,"Lille Sud, Lille (59000)",Duplex,Nord,59
+239 200,106,4.0,"Lille Sud, Lille (59000)",Duplex,Nord,59
+219 000,40,2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+219 000,40,2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+219 000,"46,7",2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+219 000,"46,7",2.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+1 600 000,"319,4",7.0,"Vieux Lille, Lille (59000)",Appartement,Nord,59
+1 200 000,"281,4",7.0,"Centre, Lille (59000)",Appartement,Nord,59
+1 200 000,"281,4",7.0,"Centre, Lille (59000)",Appartement,Nord,59
+199 000,97,4.0,Lille (59800),Appartement,Nord,59
+199 000,97,4.0,Lille (59800),Appartement,Nord,59
+180 000,25,1.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+180 000,25,1.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+180 000,"38,8",1.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+180 000,"38,8",1.0,"Lille Sud, Lille (59000)",Appartement,Nord,59
+174 000,31,1.0,Lille (59000),Appartement,Nord,59
+174 000,31,1.0,Lille (59000),Appartement,Nord,59
+Bouquet 63 000,77,5.0,Beauvais (60000),Appartement,Oise,60
+Bouquet 63 000,77,5.0,Beauvais (60000),Appartement,Oise,60
+97 500,43,2.0,"Voisinlieu, Beauvais (60000)",Appartement,Oise,60
+97 500,43,2.0,"Voisinlieu, Beauvais (60000)",Appartement,Oise,60
+91 500,34,2.0,"Marissel, Beauvais (60000)",Appartement,Oise,60
+91 500,34,2.0,"Marissel, Beauvais (60000)",Appartement,Oise,60
+91 000,63,3.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+91 000,63,3.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+91 000,63,3.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+91 000,63,3.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+71 000,31,1.0,Beauvais (60000),Appartement,Oise,60
+71 000,31,1.0,Beauvais (60000),Appartement,Oise,60
+65 000,32,1.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+65 000,32,1.0,"Saint Jean, Beauvais (60000)",Appartement,Oise,60
+650 000,3 420  de terrain,13.0,"Notre Dame du Thil-Saint Lucien, Beauvais (60000)",Maison,Oise,60
+650 000,3 420  de terrain,13.0,"Notre Dame du Thil-Saint Lucien, Beauvais (60000)",Maison,Oise,60
+650 000,3 400  de terrain,14.0,Beauvais (60000),Demeure,Oise,60
+650 000,3 400  de terrain,14.0,Beauvais (60000),Demeure,Oise,60
+369 000,382  de terrain,8.0,Beauvais (60000),Terrain,Oise,60
+369 000,382  de terrain,8.0,Beauvais (60000),Terrain,Oise,60
+359 000,382  de terrain,8.0,Goincourt (60000),Terrain,Oise,60
+359 000,382  de terrain,8.0,Goincourt (60000),Terrain,Oise,60
+349 000,382  de terrain,5.0,Beauvais (60000),Terrain,Oise,60
+349 000,382  de terrain,5.0,Beauvais (60000),Terrain,Oise,60
+330 000,1 100  de terrain,7.0,"Argentine, Beauvais (60000)",Maison,Oise,60
+330 000,1 100  de terrain,7.0,"Argentine, Beauvais (60000)",Maison,Oise,60
+304 000,539  de terrain,5.0,Noailles (60430),Maison,Oise,60
+289 000,91,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+289 000,91,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+289 000,91,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+289 000,91,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+269 500,600  de terrain,6.0,"Voisinlieu, Beauvais (60000)",Pavillon,Oise,60
+269 500,600  de terrain,6.0,"Voisinlieu, Beauvais (60000)",Pavillon,Oise,60
+250 000,200  de terrain,7.0,Noailles (60430),Maison,Oise,60
+249 000,382  de terrain,6.0,Beauvais (60000),Terrain,Oise,60
+249 000,382  de terrain,6.0,Beauvais (60000),Terrain,Oise,60
+245 000,233  de terrain,8.0,"Centre Ville, Beauvais (60000)",Maison,Oise,60
+245 000,233  de terrain,8.0,"Centre Ville, Beauvais (60000)",Maison,Oise,60
+242 500,82,4.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+242 500,82,4.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+242 500,82,4.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+242 500,82,4.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+239 900,209  de terrain,9.0,"Centre Ville, Beauvais (60000)",Maison,Oise,60
+239 900,209  de terrain,9.0,"Centre Ville, Beauvais (60000)",Maison,Oise,60
+160 000,42,2.0,"Saint Just des Marais, Beauvais (60000)",Appartement,Oise,60
+160 000,42,2.0,"Saint Just des Marais, Beauvais (60000)",Appartement,Oise,60
+158 000,62,3.0,"Centre Ville, Beauvais (60000)",Appartement,Oise,60
+158 000,62,3.0,"Centre Ville, Beauvais (60000)",Appartement,Oise,60
+139 900,79,4.0,"Centre Ville, Beauvais (60000)",Appartement,Oise,60
+139 900,79,4.0,"Centre Ville, Beauvais (60000)",Appartement,Oise,60
+114 000,223  de terrain,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+114 000,223  de terrain,5.0,"Saint Jean, Beauvais (60000)",Maison,Oise,60
+96 750,41,2.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+96 750,41,2.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+430 000,"104,6",4.0,"Bonnabaud, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+430 000,"104,6",4.0,"Bonnabaud, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+376 000,114,3.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+376 000,114,3.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+342 309,"52,6",3.0,"Lecoq, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+342 309,"52,6",3.0,"Lecoq, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+329 000,133,6.0,"Lecoq, Clermont-Ferrand (63000)",Duplex,Puy-de-Dôme,63
+329 000,133,6.0,"Lecoq, Clermont-Ferrand (63000)",Duplex,Puy-de-Dôme,63
+327 826,440  de terrain,4.0,Clermont-Ferrand (63000),Terrain,Puy-de-Dôme,63
+327 826,440  de terrain,4.0,Clermont-Ferrand (63000),Terrain,Puy-de-Dôme,63
+322 500,"63,2",3.0,"Bonnabaud, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+322 500,"63,2",3.0,"Bonnabaud, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+319 000,"88,5",4.0,"L'Oradou, Clermont-Ferrand (63000)",Maison,Puy-de-Dôme,63
+319 000,"88,5",4.0,"L'Oradou, Clermont-Ferrand (63000)",Maison,Puy-de-Dôme,63
+285 000,"82,1",4.0,"Bien Assis, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+285 000,"82,1",4.0,"Bien Assis, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+273 000,103,4.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+273 000,103,4.0,Clermont Ferrand (63000),Appartement,Puy-de-Dôme,63
+269 000,"83,4",4.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+269 000,"83,4",4.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+259 000,"65,7",3.0,"L'Oradou, Clermont-Ferrand (63000)",Maison,Puy-de-Dôme,63
+259 000,"65,7",3.0,"L'Oradou, Clermont-Ferrand (63000)",Maison,Puy-de-Dôme,63
+249 000,310  de terrain,6.0,"Anatole France, Clermont Ferrand (63000)",Maison,Puy-de-Dôme,63
+249 000,310  de terrain,6.0,"Anatole France, Clermont Ferrand (63000)",Maison,Puy-de-Dôme,63
+241 411,"39,9",2.0,"Lecoq, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+241 411,"39,9",2.0,"Lecoq, Clermont Ferrand (63000)",Appartement,Puy-de-Dôme,63
+232 000,"56,5",3.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+232 000,"56,5",3.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+219 000,76,3.0,"Bonnabaud, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+219 000,76,3.0,"Bonnabaud, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+219 000,"60,6",3.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+219 000,"60,6",3.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+215 000,"61,7",3.0,"Bien Assis, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+215 000,"61,7",3.0,"Bien Assis, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+180 000,"44,6",2.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+180 000,"44,6",2.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+175 000,61,3.0,"Bergougnan, Clermont-Ferrand (63100)",Appartement,Puy-de-Dôme,63
+169 300,41,2.0,"La Fontaine du Bac, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+169 300,41,2.0,"La Fontaine du Bac, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+159 000,"42,5",2.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+159 000,"42,5",2.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+152 250,53,2.0,"Bonnabaud, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+152 250,53,2.0,"Bonnabaud, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+140 000,76,3.0,"Sud Ouest, Lempdes (63370)",Appartement,Puy-de-Dôme,63
+133 600,22,1.0,"La Fontaine du Bac, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+133 600,22,1.0,"La Fontaine du Bac, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+126 500,74,4.0,"Leon Blum-La Raye Dieu, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+126 500,74,4.0,"Leon Blum-La Raye Dieu, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+119 000,"29,3",1.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+119 000,"29,3",1.0,"L'Oradou, Clermont-Ferrand (63000)",Appartement,Puy-de-Dôme,63
+989 998,"250,5",10.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+989 998,"250,5",10.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+989 998,"250,5",10.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+989 998,"250,5",10.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+597 600,"96,7",5.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+597 600,"96,7",5.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+587 900,"90,9",5.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+587 900,"90,9",5.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+464 900,"79,9",4.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+464 900,"79,9",4.0,"Contades Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+462 500,"89,6",4.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+462 500,"89,6",4.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+431 100,"84,9",4.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+431 100,"84,9",4.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+420 000,"74,4",4.0,"Neudorf Est Centre, Strasbourg (67100)",Appartement,Bas-Rhin,67
+400 563,63,3.0,"Robertsau Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+400 563,63,3.0,"Robertsau Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+398 000,"83,7",4.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+398 000,"83,7",4.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+341 996,"66,5",3.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+341 996,"66,5",3.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+308 000,"65,2",3.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+308 000,"65,2",3.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+300 700,"60,1",3.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+300 700,"60,1",3.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+295 000,"63,9",3.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+295 000,"63,9",3.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+279 000,77,4.0,"Nord, Bischheim (67800)",Appartement,Bas-Rhin,67
+269 000,72,4.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+269 000,72,4.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+236 800,"41,7",2.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+236 800,"41,7",2.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+229 463,"47,5",2.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+229 463,"47,5",2.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+215 000,"55,3",3.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+215 000,"55,3",3.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+200 500,"37,4",2.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+200 500,"37,4",2.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+199 000,"31,8",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+199 000,"31,8",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+181 800,"27,4",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+181 800,"27,4",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+171 000,"27,8",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+171 000,"27,8",1.0,"Port du Rhin Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+170 000,"25,8",1.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+170 000,"25,8",1.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+160 500,"25,5",1.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+160 500,"25,5",1.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+160 000,"39,5",2.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+160 000,"39,5",2.0,Strasbourg (67000),Appartement,Bas-Rhin,67
+159 000,55,2.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+159 000,55,2.0,"Gare Centre, Strasbourg (67000)",Appartement,Bas-Rhin,67
+670 000,86,4.0,"Plateau de la Croix Rousse-Ouest, Lyon 4ème (69004)",Appartement,Rhône,69
+670 000,86,4.0,"Plateau de la Croix Rousse-Ouest, Lyon 4ème (69004)",Appartement,Rhône,69
+650 000,109,3.0,"Cordeliers-Célestins-Bourse, Lyon 2ème (69002)",Appartement,Rhône,69
+650 000,109,3.0,"Cordeliers-Célestins-Bourse, Lyon 2ème (69002)",Appartement,Rhône,69
+549 000,95,4.0,"La Guillotière Sud, Lyon 7ème (69007)",Appartement,Rhône,69
+549 000,95,4.0,"La Guillotière Sud, Lyon 7ème (69007)",Appartement,Rhône,69
+530 000,91,4.0,"Montchat, Lyon 3ème (69003)",Appartement,Rhône,69
+530 000,91,4.0,"Montchat, Lyon 3ème (69003)",Appartement,Rhône,69
+499 000,111,4.0,"Jean Macé, Lyon 7ème (69007)",Appartement,Rhône,69
+499 000,111,4.0,"Jean Macé, Lyon 7ème (69007)",Appartement,Rhône,69
+480 000,"62,3",3.0,"Plateau de la Croix Rousse-Ouest, Lyon 4ème (69004)",Appartement,Rhône,69
+480 000,"62,3",3.0,"Plateau de la Croix Rousse-Ouest, Lyon 4ème (69004)",Appartement,Rhône,69
+467 000,"76,2",4.0,"Perrache-Le Confluent, Lyon 2ème (69002)",Appartement,Rhône,69
+467 000,"76,2",4.0,"Perrache-Le Confluent, Lyon 2ème (69002)",Appartement,Rhône,69
+447 000,70,3.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+447 000,70,3.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+425 000,76,3.0,"Croix Paquet, Lyon 1er (69001)",Appartement,Rhône,69
+425 000,76,3.0,"Croix Paquet, Lyon 1er (69001)",Appartement,Rhône,69
+385 000,72,3.0,"Croix Paquet, Lyon 1er (69001)",Duplex,Rhône,69
+385 000,72,3.0,"Croix Paquet, Lyon 1er (69001)",Duplex,Rhône,69
+380 000,"59,8",3.0,"Perrache-Le Confluent, Lyon 2ème (69002)",Appartement,Rhône,69
+380 000,"59,8",3.0,"Perrache-Le Confluent, Lyon 2ème (69002)",Appartement,Rhône,69
+380 000,54,2.0,Lyon 4ème (69004),Appartement,Rhône,69
+380 000,54,2.0,Lyon 4ème (69004),Appartement,Rhône,69
+339 000,82,3.0,"La Guillotière Sud, Lyon 7ème (69007)",Appartement,Rhône,69
+339 000,82,3.0,"La Guillotière Sud, Lyon 7ème (69007)",Appartement,Rhône,69
+335 000,85,4.0,"Le Grand Trou, Lyon 8ème (69008)",Appartement,Rhône,69
+335 000,85,4.0,"Le Grand Trou, Lyon 8ème (69008)",Appartement,Rhône,69
+330 000,89,5.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+330 000,89,5.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+319 000,62,3.0,"Vaise-Rochecardon-Industrie, Lyon 9ème (69009)",Appartement,Rhône,69
+319 000,62,3.0,"Vaise-Rochecardon-Industrie, Lyon 9ème (69009)",Appartement,Rhône,69
+305 000,43,2.0,"Contour, Champagne-Au-Mont-d'Or (69410)",Appartement,Rhône,69
+300 000,88,4.0,"République Tolstoi, Villeurbanne (69100)",Appartement,Rhône,69
+297 000,78,4.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+297 000,78,4.0,"Gerland, Lyon 7ème (69007)",Appartement,Rhône,69
+290 000,43,2.0,"Montchat, Lyon 3ème (69003)",Appartement,Rhône,69
+290 000,43,2.0,"Montchat, Lyon 3ème (69003)",Appartement,Rhône,69
+265 000,59,3.0,"Sans Souci-Dauphiné, Lyon 3ème (69003)",Appartement,Rhône,69
+265 000,59,3.0,"Sans Souci-Dauphiné, Lyon 3ème (69003)",Appartement,Rhône,69
+241 000,"64,6",3.0,Lyon 9ème (69009),Appartement,Rhône,69
+241 000,"64,6",3.0,Lyon 9ème (69009),Appartement,Rhône,69
+240 000,73,3.0,"Laënnec-Mermoz, Lyon 8ème (69008)",Appartement,Rhône,69
+240 000,73,3.0,"Laënnec-Mermoz, Lyon 8ème (69008)",Appartement,Rhône,69
+220 000,"60,7",2.0,"Vaise-Rochecardon-Industrie, Lyon 9ème (69009)",Appartement,Rhône,69
+220 000,"60,7",2.0,"Vaise-Rochecardon-Industrie, Lyon 9ème (69009)",Appartement,Rhône,69
+215 000,39,2.0,"Part Dieu, Lyon 3ème (69003)",Appartement,Rhône,69
+215 000,39,2.0,"Part Dieu, Lyon 3ème (69003)",Appartement,Rhône,69
+208 000,39,2.0,"Part Dieu, Lyon 3ème (69003)",Appartement,Rhône,69
+208 000,39,2.0,"Part Dieu, Lyon 3ème (69003)",Appartement,Rhône,69
+150 000,"43,5",2.0,"États-Unis, Lyon 8ème (69008)",Appartement,Rhône,69
+150 000,"43,5",2.0,"États-Unis, Lyon 8ème (69008)",Appartement,Rhône,69
+99 000,"22,5",1.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Appartement,Sarthe,72
+851 000,827  de terrain,10.0,Le Mans (72000),Hôtel,Sarthe,72
+851 000,827  de terrain,10.0,Le Mans (72000),Hôtel,Sarthe,72
+679 000,251,10.0,"Mission, Le Mans (72000)",Maison,Sarthe,72
+679 000,251,10.0,"Mission, Le Mans (72000)",Maison,Sarthe,72
+658 000,358  de terrain,8.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Maison,Sarthe,72
+658 000,358  de terrain,8.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Maison,Sarthe,72
+569 000,23 705  de terrain,10.0,Le Mans (72000),Maison,Sarthe,72
+569 000,23 705  de terrain,10.0,Le Mans (72000),Maison,Sarthe,72
+549 900,150  de terrain,9.0,"Hôpital-Chasse Royale-Le Pré, Le Mans (72000)",Maison,Sarthe,72
+549 900,150  de terrain,9.0,"Hôpital-Chasse Royale-Le Pré, Le Mans (72000)",Maison,Sarthe,72
+468 000,250  de terrain,9.0,Le Mans (72000),Maison,Sarthe,72
+468 000,250  de terrain,9.0,Le Mans (72000),Maison,Sarthe,72
+465 000,4 477  de terrain,7.0,Le Mans (72000),Maison,Sarthe,72
+465 000,4 477  de terrain,7.0,Le Mans (72000),Maison,Sarthe,72
+435 000,769  de terrain,8.0,"Bollée-Sainte Croix-Clairfontaine, Le Mans (72000)",Maison,Sarthe,72
+435 000,769  de terrain,8.0,"Bollée-Sainte Croix-Clairfontaine, Le Mans (72000)",Maison,Sarthe,72
+399 000,143,6.0,Le Mans (72000),Duplex,Sarthe,72
+399 000,143,6.0,Le Mans (72000),Duplex,Sarthe,72
+378 000,3 500  de terrain,6.0,"Heuzé-Riffaudières, Le Mans (72000)",Maison,Sarthe,72
+378 000,3 500  de terrain,6.0,"Heuzé-Riffaudières, Le Mans (72000)",Maison,Sarthe,72
+375 000,295  de terrain,8.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Maison,Sarthe,72
+375 000,295  de terrain,8.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Maison,Sarthe,72
+348 000,1 400  de terrain,7.0,"Quartier du Centre, Le Mans (72000)",Maison,Sarthe,72
+348 000,1 400  de terrain,7.0,"Quartier du Centre, Le Mans (72000)",Maison,Sarthe,72
+333 000,151,6.0,"Hôpital-Chasse Royale-Le Pré, Le Mans (72000)",Maison,Sarthe,72
+333 000,151,6.0,"Hôpital-Chasse Royale-Le Pré, Le Mans (72000)",Maison,Sarthe,72
+277 000,271  de terrain,6.0,"Université-Ribay-Ardriers, Le Mans (72000)",Maison,Sarthe,72
+277 000,271  de terrain,6.0,"Université-Ribay-Ardriers, Le Mans (72000)",Maison,Sarthe,72
+249 000,275  de terrain,5.0,"Bollée-Sainte Croix-Jardin des Plantes, Le Mans (72000)",Maison,Sarthe,72
+249 000,275  de terrain,5.0,"Bollée-Sainte Croix-Jardin des Plantes, Le Mans (72000)",Maison,Sarthe,72
+1 260 000,4 000  de terrain,20.0,Le Mans (72000),Maison,Sarthe,72
+1 260 000,4 000  de terrain,20.0,Le Mans (72000),Maison,Sarthe,72
+188 000,395  de terrain,4.0,Le Mans (72100),Maison,Sarthe,72
+188 000,395  de terrain,4.0,Le Mans (72100),Maison,Sarthe,72
+182 900,39,2.0,"Université-Ribay-Ardriers, Le Mans (72000)",Appartement,Sarthe,72
+182 900,39,2.0,"Université-Ribay-Ardriers, Le Mans (72000)",Appartement,Sarthe,72
+181 900,105,5.0,Le Mans (72000),Appartement,Sarthe,72
+181 900,105,5.0,Le Mans (72000),Appartement,Sarthe,72
+169 900,81,4.0,"Quartier du Centre, Le Mans (72000)",Appartement,Sarthe,72
+169 900,81,4.0,"Quartier du Centre, Le Mans (72000)",Appartement,Sarthe,72
+159 900,67,4.0,"Quartier du Centre, Le Mans (72000)",Appartement,Sarthe,72
+159 900,67,4.0,"Quartier du Centre, Le Mans (72000)",Appartement,Sarthe,72
+149 500,"36,9",2.0,"Saint Pavin-Saint Georges, Le Mans (72000)",Appartement,Sarthe,72
+141 750,"88,2",5.0,Le Mans (72000),Appartement,Sarthe,72
+141 750,"88,2",5.0,Le Mans (72000),Appartement,Sarthe,72
+138 980,72,3.0,Le Mans (72100),Appartement,Sarthe,72
+138 980,72,3.0,Le Mans (72100),Appartement,Sarthe,72
+124 000,68,3.0,"Heuzé-Riffaudières, Le Mans (72000)",Appartement,Sarthe,72
+124 000,68,3.0,"Heuzé-Riffaudières, Le Mans (72000)",Appartement,Sarthe,72
+114 300,19,1.0,Le Mans (72000),Appartement,Sarthe,72
+114 300,19,1.0,Le Mans (72000),Appartement,Sarthe,72
+966 000,"42,3",2.0,"Val de Grace, Paris 5ème (75005)",Appartement,Paris,75
+966 000,"42,3",2.0,"Val de Grace, Paris 5ème (75005)",Appartement,Paris,75
+892 500,"142,2",5.0,"Georges Brassens, Paris 15ème (75015)",Duplex,Paris,75
+892 500,"142,2",5.0,"Georges Brassens, Paris 15ème (75015)",Duplex,Paris,75
+850 000,54,2.0,"Monnaie, Paris 6ème (75006)",Duplex,Paris,75
+850 000,54,2.0,"Monnaie, Paris 6ème (75006)",Duplex,Paris,75
+810 000,50,2.0,"Trudaine-Maubeuge, Paris 9ème (75009)",Appartement,Paris,75
+810 000,50,2.0,"Trudaine-Maubeuge, Paris 9ème (75009)",Appartement,Paris,75
+699 000,"89,4",4.0,"Danube-Porte des Lilas, Paris 19ème (75019)",Appartement,Paris,75
+699 000,"89,4",4.0,"Danube-Porte des Lilas, Paris 19ème (75019)",Appartement,Paris,75
+550 000,86,3.0,"Plaine, Paris 20ème (75020)",Appartement,Paris,75
+550 000,86,3.0,"Plaine, Paris 20ème (75020)",Appartement,Paris,75
+499 000,52,3.0,"Clignancourt-Jules Joffrin, Paris 18ème (75018)",Appartement,Paris,75
+499 000,52,3.0,"Clignancourt-Jules Joffrin, Paris 18ème (75018)",Appartement,Paris,75
+498 000,"33,1",2.0,"Arsenal, Paris 4ème (75004)",Appartement,Paris,75
+498 000,"33,1",2.0,"Arsenal, Paris 4ème (75004)",Appartement,Paris,75
+460 000,41,2.0,"Grandes Carrières-Clichy, Paris 18ème (75018)",Appartement,Paris,75
+460 000,41,2.0,"Grandes Carrières-Clichy, Paris 18ème (75018)",Appartement,Paris,75
+450 000,32,2.0,"Saint Germain des Prés, Paris 6ème (75006)",Appartement,Paris,75
+450 000,32,2.0,"Saint Germain des Prés, Paris 6ème (75006)",Appartement,Paris,75
+449 000,35,1.0,"Alleray Procession, Paris 15ème (75015)",Appartement,Paris,75
+449 000,35,1.0,"Alleray Procession, Paris 15ème (75015)",Appartement,Paris,75
+425 000,"45,7",2.0,"Nation-Alexandre Dumas, Paris 11ème (75011)",Appartement,Paris,75
+425 000,"45,7",2.0,"Nation-Alexandre Dumas, Paris 11ème (75011)",Appartement,Paris,75
+415 000,33,1.0,"Sentier-Bonne Nouvelle, Paris 2ème (75002)",Appartement,Paris,75
+415 000,33,1.0,"Sentier-Bonne Nouvelle, Paris 2ème (75002)",Appartement,Paris,75
+3 500 000,245,6.0,"Muette Sud, Paris 16ème (75016)",Appartement,Paris,75
+3 250 000,264,7.0,"Mairie, Paris 8ème (75008)",Appartement,Paris,75
+3 250 000,264,7.0,"Mairie, Paris 8ème (75008)",Appartement,Paris,75
+360 000,33,2.0,"Grange Aux Belles-Terrage, Paris 10ème (75010)",Appartement,Paris,75
+360 000,33,2.0,"Grange Aux Belles-Terrage, Paris 10ème (75010)",Appartement,Paris,75
+2 420 000,"140,4",6.0,"Val de Grace, Paris 5ème (75005)",Duplex,Paris,75
+2 420 000,"140,4",6.0,"Val de Grace, Paris 5ème (75005)",Duplex,Paris,75
+290 000,25,1.0,"Clichy-Trinité, Paris 9ème (75009)",Appartement,Paris,75
+290 000,25,1.0,"Clichy-Trinité, Paris 9ème (75009)",Appartement,Paris,75
+270 000,17,1.0,"Sorbonne, Paris 5ème (75005)",Appartement,Paris,75
+270 000,17,1.0,"Sorbonne, Paris 5ème (75005)",Appartement,Paris,75
+234 000,27,2.0,"Louis Blanc-Aqueduc, Paris 10ème (75010)",Appartement,Paris,75
+234 000,27,2.0,"Louis Blanc-Aqueduc, Paris 10ème (75010)",Appartement,Paris,75
+230 000,22,1.0,"Ternes-Maillot, Paris 17ème (75017)",Appartement,Paris,75
+230 000,22,1.0,"Ternes-Maillot, Paris 17ème (75017)",Appartement,Paris,75
+1 990 000,155,5.0,"Muette Nord, Paris 16ème (75016)",Appartement,Paris,75
+1 990 000,155,5.0,"Muette Nord, Paris 16ème (75016)",Appartement,Paris,75
+1 800 000,134,5.0,"Vallée de Fécamp, Paris 12ème (75012)",Maison,Paris,75
+1 800 000,134,5.0,"Vallée de Fécamp, Paris 12ème (75012)",Maison,Paris,75
+1 065 000,99,5.0,"Muette Sud, Paris 16ème (75016)",Appartement,Paris,75
+1 065 000,99,5.0,"Muette Sud, Paris 16ème (75016)",Appartement,Paris,75
+1 050 000,80,5.0,"Citroën-Boucicaut, Paris 15ème (75015)",Duplex,Paris,75
+1 050 000,80,5.0,"Citroën-Boucicaut, Paris 15ème (75015)",Duplex,Paris,75
+1 020 000,123,4.0,Paris 11ème (75011),Appartement,Paris,75
+1 020 000,123,4.0,Paris 11ème (75011),Appartement,Paris,75
+96 000,54,3.0,"Tourneville, Le Havre (76620)",Appartement,Seine-Maritime,76
+938 000,"129,2",4.0,"Centre Ville, Le Havre (76600)",Appartement,Seine-Maritime,76
+938 000,"129,2",4.0,"Centre Ville, Le Havre (76600)",Appartement,Seine-Maritime,76
+87 672,"17,9",1.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+87 672,"17,9",1.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+77 000,42,2.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+77 000,42,2.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+69 000,25,2.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+69 000,25,2.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+55 000,"12,7",1.0,Le Havre (76600),Appartement,Seine-Maritime,76
+55 000,"12,7",1.0,Le Havre (76600),Appartement,Seine-Maritime,76
+53 000,28,1.0,Le Havre (76600),Appartement,Seine-Maritime,76
+53 000,28,1.0,Le Havre (76600),Appartement,Seine-Maritime,76
+464 000,"104,4",5.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+464 000,"104,4",5.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+449 000,"115,6",5.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+449 000,"115,6",5.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+434 000,"94,5",5.0,"Centre Ville, Le Havre (76600)",Duplex,Seine-Maritime,76
+434 000,"94,5",5.0,"Centre Ville, Le Havre (76600)",Duplex,Seine-Maritime,76
+385 000,633  de terrain,6.0,"Sanvic, Le Havre (76620)",Maison,Seine-Maritime,76
+385 000,633  de terrain,6.0,"Sanvic, Le Havre (76620)",Maison,Seine-Maritime,76
+345 000,75,4.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+345 000,75,4.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+325 000,"66,3",4.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+325 000,"66,3",4.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+270 000,"70,3",3.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+270 000,"70,3",3.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+268 000,"55,3",3.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+268 000,"55,3",3.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+238 900,"70,5",3.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+238 900,"70,5",3.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+210 000,67,3.0,"Eure, Le Havre (76600)",Appartement,Seine-Maritime,76
+210 000,67,3.0,"Eure, Le Havre (76600)",Appartement,Seine-Maritime,76
+209 000,39,2.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+209 000,39,2.0,"Côte Ouest-Ormeaux, Le Havre (76600)",Appartement,Seine-Maritime,76
+179 900,"45,3",2.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+179 900,"45,3",2.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+178 381,"42,2",3.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+178 381,"42,2",3.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 886,"38,5",2.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 886,"38,5",2.0,"Sainte Marie-Saint Léon, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 000,"69,2",3.0,Le Havre (76600),Appartement,Seine-Maritime,76
+170 000,62,3.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 000,62,3.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 000,33,2.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+170 000,33,2.0,"Anatole France-Danton, Le Havre (76600)",Appartement,Seine-Maritime,76
+159 900,247  de terrain,5.0,"Anatole France-Danton, Le Havre (76600)",Maison,Seine-Maritime,76
+159 900,247  de terrain,5.0,"Anatole France-Danton, Le Havre (76600)",Maison,Seine-Maritime,76
+149 000,110  de terrain,3.0,"Graville, Le Havre (76600)",Maison,Seine-Maritime,76
+149 000,110  de terrain,3.0,"Graville, Le Havre (76600)",Maison,Seine-Maritime,76
+105 000,54,2.0,"Côte Est-Soquence, Le Havre (76600)",Appartement,Seine-Maritime,76
+105 000,54,2.0,"Côte Est-Soquence, Le Havre (76600)",Appartement,Seine-Maritime,76
+990 000,"117,1",4.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+990 000,"117,1",4.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+990 000,13 590  de terrain,7.0,Toulon (83200),Maison,Var,83
+990 000,13 590  de terrain,7.0,Toulon (83200),Maison,Var,83
+985 000,"117,3",4.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+985 000,"117,3",4.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+795 000,150,5.0,Toulon (83000),Appartement,Var,83
+795 000,150,5.0,Toulon (83000),Appartement,Var,83
+795 000,150,5.0,Toulon (83200),Maison,Var,83
+795 000,150,5.0,Toulon (83200),Maison,Var,83
+698 000,1 069  de terrain,8.0,"Sainte Musse, La Garde (83130)",Maison,Var,83
+695 000,890  de terrain,5.0,Toulon (83000),Maison,Var,83
+695 000,890  de terrain,5.0,Toulon (83000),Maison,Var,83
+680 000,505  de terrain,5.0,Toulon (83000),Maison,Var,83
+680 000,505  de terrain,5.0,Toulon (83000),Maison,Var,83
+600 000,90,4.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+600 000,90,4.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+596 000,"92,2",4.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+596 000,"92,2",4.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+488 000,"76,4",4.0,"Les Ameniers, Toulon (83100)",Villa,Var,83
+488 000,"76,4",4.0,"Les Ameniers, Toulon (83100)",Villa,Var,83
+483 000,333  de terrain,4.0,Toulon (83000),Maison,Var,83
+483 000,333  de terrain,4.0,Toulon (83000),Maison,Var,83
+466 000,65,3.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+466 000,65,3.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+423 000,"63,2",3.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+423 000,"63,2",3.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+377 000,63,3.0,Toulon (83000),Appartement,Var,83
+377 000,63,3.0,Toulon (83000),Appartement,Var,83
+369 000,78,3.0,"La Serinette, Toulon (83000)",Appartement,Var,83
+369 000,78,3.0,"La Serinette, Toulon (83000)",Appartement,Var,83
+349 000,70,3.0,"Le Faron-Fort-Rouge, Toulon (83100)",Appartement,Var,83
+349 000,70,3.0,"Le Faron-Fort-Rouge, Toulon (83100)",Appartement,Var,83
+328 000,"92,1",5.0,"Le Thouar, La Garde (83130)",Appartement,Var,83
+289 000,"41,2",2.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+289 000,"41,2",2.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+238 000,66,3.0,Toulon (83100),Appartement,Var,83
+238 000,66,3.0,Toulon (83100),Appartement,Var,83
+225 000,84,3.0,"Aguillon, Toulon (83000)",Duplex,Var,83
+225 000,84,3.0,"Aguillon, Toulon (83000)",Duplex,Var,83
+220 000,42,2.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+220 000,42,2.0,"Cap Brun , Toulon (83000)",Appartement,Var,83
+200 000,62,3.0,Toulon (83000),Appartement,Var,83
+200 000,62,3.0,Toulon (83000),Appartement,Var,83
+1 598 000,6 300  de terrain,7.0,"Claret, Toulon (83200)",Villa,Var,83
+1 598 000,6 300  de terrain,7.0,"Claret, Toulon (83200)",Villa,Var,83
+1 350 000,950  de terrain,5.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+1 350 000,950  de terrain,5.0,"Cap Brun , Toulon (83000)",Maison,Var,83
+1 260 000,151,4.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+1 260 000,151,4.0,"Cap Brun , Toulon (83000)",Duplex,Var,83
+155 000,"54,8",3.0,Toulon (83200),Appartement,Var,83
+155 000,"54,8",3.0,Toulon (83200),Appartement,Var,83
+650 000,120,5.0,"République, Suresnes (92150)",Appartement,Hauts-de-Seine,92
+639 300,"107,3",5.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+639 300,"107,3",5.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+538 400,"118,9",5.0,"Paul Bert, Aubervilliers (93300)",Appartement,Seine-Saint-Denis,93
+497 300,"80,9",4.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+497 300,"80,9",4.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+465 600,"81,9",4.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+465 600,"81,9",4.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+426 000,"63,8",3.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+426 000,"63,8",3.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+394 700,"68,8",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+394 700,"68,8",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+377 000,69,3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+377 000,69,3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+377 000,"58,6",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+377 000,"58,6",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+329 000,45,,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+329 000,45,,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+326 300,"89,5",5.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+326 300,"89,5",5.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+326 000,83,4.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+326 000,83,4.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+310 000,82,4.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+310 000,82,4.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+304 500,39,2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+304 500,39,2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+275 000,41,2.0,"Pleyel, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+275 000,41,2.0,"Pleyel, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+272 000,"39,9",2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+272 000,"39,9",2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+271 000,"61,2",3.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+271 000,"61,2",3.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+263 000,"42,2",2.0,"Firmin Genier, Aubervilliers (93300)",Appartement,Seine-Saint-Denis,93
+260 000,66,3.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+260 000,66,3.0,"République-Gare-Porte de Paris, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+259 900,56,3.0,"République-Gare-Porte de Paris, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+259 900,56,3.0,"République-Gare-Porte de Paris, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+254 600,"31,7",1.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+254 600,"31,7",1.0,"Pleyel, Saint-Denis (93200)",Duplex,Seine-Saint-Denis,93
+239 900,98,5.0,"Delaunay Belleville, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+239 900,98,5.0,"Delaunay Belleville, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+225 000,58,3.0,"République-Gare-Porte de Paris, St Denis (93200)",Appartement,Seine-Saint-Denis,93
+225 000,58,3.0,"République-Gare-Porte de Paris, St Denis (93200)",Appartement,Seine-Saint-Denis,93
+220 800,"56,2",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+220 800,"56,2",3.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+219 400,"63,4",3.0,"L'Avenir-La Cerisaie, Stains (93240)",Appartement,Seine-Saint-Denis,93
+215 000,61,3.0,"Péri-Langevin-Stalingrad-Politzer, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+215 000,61,3.0,"Péri-Langevin-Stalingrad-Politzer, Saint Denis (93200)",Appartement,Seine-Saint-Denis,93
+196 000,"24,3",1.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+196 000,"24,3",1.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+185 000,32,2.0,"République-Gare-Porte de Paris, St Denis (93200)",Appartement,Seine-Saint-Denis,93
+185 000,32,2.0,"République-Gare-Porte de Paris, St Denis (93200)",Appartement,Seine-Saint-Denis,93
+175 500,"41,1",2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+175 500,"41,1",2.0,"Pleyel, Saint-Denis (93200)",Appartement,Seine-Saint-Denis,93
+93 500,38,2.0,Saint-Denis (97400),Appartement,DOM,97
+93 500,38,2.0,Saint-Denis (97400),Appartement,DOM,97
+799 000,1 900  de terrain,7.0,La Possession (97419),Villa,DOM,97
+779 000,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+779 000,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+688 750,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+688 750,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+540 000,687  de terrain,6.0,Saint-Denis (97490),Maison,DOM,97
+540 000,687  de terrain,6.0,Saint-Denis (97490),Maison,DOM,97
+535 640,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+535 640,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+485 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+485 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+478 500,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+478 500,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+440 000,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+440 000,75,4.0,Saint-Denis (97400),Appartement,DOM,97
+379 750,40,2.0,Saint-Denis (97400),Appartement,DOM,97
+379 750,40,2.0,Saint-Denis (97400),Appartement,DOM,97
+322 000,583  de terrain,4.0,Saint-Denis (97490),Maison,DOM,97
+322 000,583  de terrain,4.0,Saint-Denis (97490),Maison,DOM,97
+298 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+298 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+263 100,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+263 100,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+249 000,25,1.0,Saint-Denis (97400),Appartement,DOM,97
+249 000,25,1.0,Saint-Denis (97400),Appartement,DOM,97
+248 570,65,3.0,Saint-Denis (97400),Appartement,DOM,97
+248 570,65,3.0,Saint-Denis (97400),Appartement,DOM,97
+232 000,76,3.0,Saint-Denis (97400),Duplex,DOM,97
+232 000,76,3.0,Saint-Denis (97400),Duplex,DOM,97
+229 990,100,5.0,St Denis (97400),Appartement,DOM,97
+229 990,100,5.0,St Denis (97400),Appartement,DOM,97
+220 000,40,2.0,Saint-Denis (97400),Appartement,DOM,97
+220 000,40,2.0,Saint-Denis (97400),Appartement,DOM,97
+220 000,72,3.0,Saint-Denis (97400),Appartement,DOM,97
+220 000,72,3.0,Saint-Denis (97400),Appartement,DOM,97
+209 000,79,4.0,Saint-Denis (97490),Duplex,DOM,97
+209 000,79,4.0,Saint-Denis (97490),Duplex,DOM,97
+194 000,74  de terrain,3.0,Saint-Denis (97490),Maison,DOM,97
+194 000,74  de terrain,3.0,Saint-Denis (97490),Maison,DOM,97
+191 000,25,1.0,Saint-Denis (97400),Appartement,DOM,97
+191 000,25,1.0,Saint-Denis (97400),Appartement,DOM,97
+190 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+190 000,60,3.0,Saint-Denis (97400),Appartement,DOM,97
+176 550,"56,6",3.0,Saint-Denis (97417),Duplex,DOM,97
+176 550,"56,6",3.0,Saint-Denis (97417),Duplex,DOM,97
+169 900,71,4.0,Saint Denis (97490),Appartement,DOM,97
+169 900,71,4.0,Saint Denis (97490),Appartement,DOM,97
+115 000,40,2.0,Sainte-Marie (97438),Appartement,DOM,97
+110 000,"41,1",2.0,Saint-Denis (97400),Appartement,DOM,97
+110 000,"41,1",2.0,Saint-Denis (97400),Appartement,DOM,97
