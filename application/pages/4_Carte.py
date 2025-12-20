@@ -17,7 +17,7 @@ DATA_PATH = BASE_DIR / "DATA" / "annonces_carte.csv"
 # Chargement
 source = pd.read_csv(DATA_PATH)
 
-st.title("Carte des annonces immobilières en France")
+st.title("Annonces immobilières de France")
 
 # Carte centrée sur la France
 carte = folium.Map(
