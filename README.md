@@ -48,6 +48,7 @@ L’application permet :
 
 ## 📂 Structure du projet
 
+```plaintext
 ├── DATA/
 │ ├── df_analyseVF4.csv # Jeu de données final
 │ ├── annonces_carte.csv # Données géolocalisées
@@ -68,7 +69,7 @@ L’application permet :
 │
 ├── README.md
 └── requirements.txt
-
+```
 ---
 
 ## ⚙️ Installation
@@ -80,6 +81,7 @@ L’application permet :
 ### Installation des dépendances
 ```bash
 pip install -r requirements.txt
+
 
 
 
